@@ -9,3 +9,4 @@ global.startedPlaying = false
 global.goalLife = false
 OncePlayer = true
 global.playerId = 0
+global.enemyTable = ds_grid_create(1,0)

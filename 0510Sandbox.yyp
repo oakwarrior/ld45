@@ -319,6 +319,22 @@
             }
         },
         {
+            "Key": "3a5d34d9-a65e-48b7-959f-9814b2032dec",
+            "Value": {
+                "id": "4b8a0269-5962-4a46-8ce6-e7b1fbae27ad",
+                "resourcePath": "objects\\DraggableMeta\\DraggableMeta.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3aa27494-a7ad-484d-a233-ce0f24e10935",
+            "Value": {
+                "id": "ee2550bd-9324-4137-b423-5cd22db41d5b",
+                "resourcePath": "objects\\DraggablePoint\\DraggablePoint.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3b8bd60d-c0b6-4289-9bfd-10468a66d3bb",
             "Value": {
                 "id": "db3ae595-0021-4bb2-be42-a0d939f1862f",
@@ -1156,6 +1172,14 @@
                 "id": "260cf1fb-9648-4a51-b709-c1d2d41154cc",
                 "resourcePath": "sprites\/sSwitchMoverH\/sSwitchMoverH.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e0f5d195-3b1d-4523-8d82-c63472002be6",
+            "Value": {
+                "id": "0da52e01-fdb9-4ab7-8fe6-9946c92839f4",
+                "resourcePath": "objects\\victoryMeta\\victoryMeta.yy",
+                "resourceType": "GMObject"
             }
         },
         {

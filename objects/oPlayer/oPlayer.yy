@@ -74,6 +74,22 @@
             "objectId": "1eb4dae7-f7e4-4c4f-9aa9-026c3b319cf4",
             "propertyId": "3b00700e-05e6-4067-b801-57b482386fc8",
             "value": "oPlayer"
+        },
+        {
+            "id": "4b8f47ca-4714-42f3-a32f-d9fa6b62d701",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "f3d516fe-a2ad-48f7-acc3-153f341d66d7",
+            "propertyId": "9512bd99-9e85-42a7-9957-449f84d8667a",
+            "value": "False"
+        },
+        {
+            "id": "d5477f3c-82c9-4082-8d2e-499c5bdcc88c",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "f3d516fe-a2ad-48f7-acc3-153f341d66d7",
+            "propertyId": "98d69102-a214-407e-bbcd-0db3fc1ca546",
+            "value": "False"
         }
     ],
     "parentObjectId": "1eb4dae7-f7e4-4c4f-9aa9-026c3b319cf4",

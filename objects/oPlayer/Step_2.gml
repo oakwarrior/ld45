@@ -58,6 +58,8 @@ yscale = Approach(yscale, 1, 0.05);
 
 // Crushed by moving solid
 if (place_meeting(x, y, oParSolid))
-    instance_destroy();
+{
+//  instance_destroy();
+}
 }
 
