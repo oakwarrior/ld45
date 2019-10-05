@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "015aed4d-d135-46aa-babc-f684c7e2e7b2",
+            "Value": {
+                "id": "ed0586b8-a820-47ba-b94c-aa3cc91a71dd",
+                "resourcePath": "rooms\\ui_layout_room_Theo\\ui_layout_room_Theo.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "039e5949-4849-46f7-be1a-37d305516fca",
             "Value": {
                 "id": "47c4dbcf-b72e-4743-8962-8b323981d64a",
