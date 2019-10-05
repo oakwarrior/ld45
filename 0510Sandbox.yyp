@@ -209,7 +209,7 @@
         {
             "Key": "3e08c502-ae1a-45e0-a1f2-0c0864bcd282",
             "Value": {
-                "id": "d16de2b5-9c85-4f6d-8af3-a0b1c7dd6104",
+                "id": "f8e706af-c203-4d8a-bc2d-67c94a0e733f",
                 "resourcePath": "objects\\room_collider\\room_collider.yy",
                 "resourceType": "GMObject"
             }
@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "424c7ce9-a4c6-43be-9589-164faad97d7b",
+            "Value": {
+                "id": "ab9511a7-71d8-469d-8fc4-5a284f6823f6",
+                "resourcePath": "views\\57a56637-a8e6-409d-a966-3dc86cded9b1-room.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "44216eb0-dda1-4a13-abeb-1f63fd514b1b",
             "Value": {
                 "id": "3e7685ad-6797-4e67-8aa9-327450192d01",
@@ -233,7 +241,7 @@
         {
             "Key": "4aa14de1-97f5-4213-8d73-918874dad948",
             "Value": {
-                "id": "67aba7ba-d35a-45e5-979f-eee5dfbaa3f5",
+                "id": "4e23de68-e6a5-492f-8abf-7797afee2727",
                 "resourcePath": "sprites\\brick_sprite\\brick_sprite.yy",
                 "resourceType": "GMSprite"
             }
@@ -316,6 +324,14 @@
                 "id": "2cb5ac8e-c9a2-48cb-94f7-687befeb6573",
                 "resourcePath": "views\\652bfaa3-3c52-478a-9889-a77e3328c081.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "690cc137-34c0-4adf-9322-f518576a902d",
+            "Value": {
+                "id": "3fc2ad40-e441-4146-b292-908a13647039",
+                "resourcePath": "rooms\\gravity_test\\gravity_test.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -585,7 +601,7 @@
         {
             "Key": "b58b7aac-75e9-4f91-9a50-c1c4fa8718c7",
             "Value": {
-                "id": "aa4afa1c-2297-49a0-b348-9bd06ff67f72",
+                "id": "f2a8015c-9f4a-4613-9d6a-f0d653641491",
                 "resourcePath": "objects\\Gravity\\Gravity.yy",
                 "resourceType": "GMObject"
             }
@@ -721,7 +737,7 @@
         {
             "Key": "d9997bec-e746-4830-a058-7d4a9e6944e2",
             "Value": {
-                "id": "0a6d3852-5f8c-4d5f-a246-b71a98f15972",
+                "id": "41b7285b-ead6-4277-9bcf-960568b65251",
                 "resourcePath": "sprites\\gravity_sprite\\gravity_sprite.yy",
                 "resourceType": "GMSprite"
             }
@@ -809,7 +825,7 @@
         {
             "Key": "f3d516fe-a2ad-48f7-acc3-153f341d66d7",
             "Value": {
-                "id": "aa82da99-9105-4b90-93cc-19078dcecf90",
+                "id": "cce8635a-baec-4bf2-87ea-2f8677b97349",
                 "resourcePath": "objects\\Brick\\Brick.yy",
                 "resourceType": "GMObject"
             }
