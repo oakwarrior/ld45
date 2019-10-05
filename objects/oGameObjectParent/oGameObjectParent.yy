@@ -2,7 +2,7 @@
     "id": "f3d516fe-a2ad-48f7-acc3-153f341d66d7",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Brick",
+    "name": "oGameObjectParent",
     "eventList": [
         {
             "id": "f8009351-8325-486c-87a8-a06731b0f95b",

@@ -91,7 +91,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "Brick",
+            "value": "oGameObjectParent",
             "varName": "nothing_object",
             "varType": 5
         }

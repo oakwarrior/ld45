@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "542e8fd7-7769-43ac-bf5b-7fc3ac75f46c",
+            "Value": {
+                "id": "b488d652-0aec-4557-96ba-4f160c67d7a4",
+                "resourcePath": "objects\\CowGameObject\\CowGameObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "57a56637-a8e6-409d-a966-3dc86cded9b1",
             "Value": {
                 "id": "4d1a7094-3133-459d-aac8-588c4a42effb",
@@ -599,6 +607,14 @@
             }
         },
         {
+            "Key": "8c99700a-50ab-4a94-b8f7-efeb8d7276e7",
+            "Value": {
+                "id": "870455f8-1b9d-4c65-8e2d-7939c9b8f086",
+                "resourcePath": "objects\\DraggableCow\\DraggableCow.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8fe511e5-2e5b-48db-8dd9-6316cdeb7963",
             "Value": {
                 "id": "989f9c97-3498-4506-b9e8-610540db7ef1",
@@ -739,6 +755,14 @@
             "Value": {
                 "id": "a5386349-cc3f-4daf-b576-cf050896bcfb",
                 "resourcePath": "objects\/oBounceMover\/oBounceMover.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b105b846-f61b-42f9-b1c4-77067f1d1fc2",
+            "Value": {
+                "id": "42522f06-2ee8-439e-999e-68c2ae1b2891",
+                "resourcePath": "objects\\BrickGameObject\\BrickGameObject.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -927,6 +951,14 @@
             }
         },
         {
+            "Key": "db9a7337-cd52-4004-a355-c07755298150",
+            "Value": {
+                "id": "4752cda5-c49b-4856-ba79-f8c7f04915ce",
+                "resourcePath": "views\\db9a7337-cd52-4004-a355-c07755298150.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "de06987f-321c-4804-8fc0-1fc09ac5b5b2",
             "Value": {
                 "id": "9953930c-8ae8-45b7-ba95-296631b4bd9a",
@@ -975,6 +1007,14 @@
             }
         },
         {
+            "Key": "eb9f2219-c123-4a74-a33c-2218a6377cdf",
+            "Value": {
+                "id": "52d57dac-e58e-47f2-8634-7953f479b5e0",
+                "resourcePath": "views\\eb9f2219-c123-4a74-a33c-2218a6377cdf.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "ebed1ae9-120d-4069-b3df-db30175784ad",
             "Value": {
                 "id": "755729d4-fc2b-4cf6-8be8-7c13945a40b2",
@@ -1010,7 +1050,7 @@
             "Key": "f3d516fe-a2ad-48f7-acc3-153f341d66d7",
             "Value": {
                 "id": "cce8635a-baec-4bf2-87ea-2f8677b97349",
-                "resourcePath": "objects\/Brick\/Brick.yy",
+                "resourcePath": "objects\\oGameObjectParent\\oGameObjectParent.yy",
                 "resourceType": "GMObject"
             }
         },
