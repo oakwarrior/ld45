@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "1eb4dae7-f7e4-4c4f-9aa9-026c3b319cf4",
+            "Value": {
+                "id": "b80d992c-8483-4ede-94f0-13a324b4a68d",
+                "resourcePath": "objects\\oDragParent\\oDragParent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2174c354-303a-4557-8df6-1f15d5c959a5",
             "Value": {
                 "id": "248c1346-f575-4eed-bd7e-de2c6da96c14",
@@ -292,6 +300,14 @@
                 "id": "31a8ab04-5b6b-4510-9028-3c9c0c209b3a",
                 "resourcePath": "views\\74201976-1042-45fc-ae6f-0355970768b9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "76c100fc-13b9-4702-be92-88ed1914c3b3",
+            "Value": {
+                "id": "3797c1ea-f445-4b46-b5cf-9a7eb0983576",
+                "resourcePath": "objects\\oControl\\oControl.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -535,6 +551,14 @@
             }
         },
         {
+            "Key": "ce4bb539-a93b-40b0-97fa-8b624893cd26",
+            "Value": {
+                "id": "e47f8ef2-b8d8-4dfe-a5d1-61d491deb551",
+                "resourcePath": "rooms\\oaktestroom\\oaktestroom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "ceee2b3a-1400-4e00-a0c7-629bef642b67",
             "Value": {
                 "id": "8483041a-d5e7-4044-9eb3-c80350e0acf7",
@@ -620,6 +644,22 @@
                 "id": "9849c60f-1bf7-4c74-b114-11f474186dd2",
                 "resourcePath": "scripts\\@__view_set_internal\\__view_set_internal.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e5634c5e-8e14-4c1e-b496-2016b0557d7b",
+            "Value": {
+                "id": "c4bf6ea1-ccfd-4da5-93ed-386692843c66",
+                "resourcePath": "views\\e5634c5e-8e14-4c1e-b496-2016b0557d7b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ebed1ae9-120d-4069-b3df-db30175784ad",
+            "Value": {
+                "id": "4f4fd59a-432d-4738-982b-088ec0cf23a9",
+                "resourcePath": "objects\\oDragKitten\\oDragKitten.yy",
+                "resourceType": "GMObject"
             }
         },
         {
