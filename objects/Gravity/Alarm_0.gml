@@ -1,5 +1,7 @@
 show_debug_message("ENABLING GRAVITY!")
 
+visible = false
+
 var layerid = layer_get_id("GameObjects");
 var layer_elements = layer_get_all_elements(layerid);
 
@@ -12,3 +14,5 @@ for (var i = 0; i < array_length_1d(layer_elements); i++;) {
 		object.phy_active = true
 	}
 }
+
+alarm[0] = 10;

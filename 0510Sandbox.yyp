@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "1bdd19a4-cd11-4fde-be05-6d71e31d648f",
+            "Value": {
+                "id": "ec899b5b-9d5d-4395-bc1d-13da74ad1355",
+                "resourcePath": "objects\\DraggableBrick\\DraggableBrick.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1c5d1004-44a0-451d-af95-bbacd7146c2b",
             "Value": {
                 "id": "cdc284c0-a760-4fec-abe0-069156053b94",
@@ -204,14 +212,6 @@
                 "id": "fd1aaa2c-40a3-41ed-a6da-287718edd8f4",
                 "resourcePath": "sprites\\sRail\\sRail.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "3e08c502-ae1a-45e0-a1f2-0c0864bcd282",
-            "Value": {
-                "id": "f8e706af-c203-4d8a-bc2d-67c94a0e733f",
-                "resourcePath": "objects\\room_collider\\room_collider.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -428,6 +428,14 @@
                 "id": "560abec2-fa0a-42f5-8f1a-2795237ac671",
                 "resourcePath": "views\\7d8b36fa-ad16-4393-8189-cd41ce7fff0e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7d8f3e1a-1684-4a04-9059-483f661b9e12",
+            "Value": {
+                "id": "b5ecc678-cf72-48e0-b191-31985ee793ef",
+                "resourcePath": "objects\\ui_template_collider\\ui_template_collider.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -791,10 +799,18 @@
             }
         },
         {
-            "Key": "ebed1ae9-120d-4069-b3df-db30175784ad",
+            "Key": "eb63b00b-0fb8-48e2-9fb8-cae64e309e1e",
             "Value": {
-                "id": "4f4fd59a-432d-4738-982b-088ec0cf23a9",
-                "resourcePath": "objects\\oDragKitten\\oDragKitten.yy",
+                "id": "57d054e8-0a53-4a81-9205-0e33bc2a3393",
+                "resourcePath": "rooms\\test\\test.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "edf44ed0-8a01-4f34-b963-ae82d9bdcfb8",
+            "Value": {
+                "id": "755729d4-fc2b-4cf6-8be8-7c13945a40b2",
+                "resourcePath": "objects\\DraggableGravity\\DraggableGravity.yy",
                 "resourceType": "GMObject"
             }
         },
