@@ -431,6 +431,14 @@
             }
         },
         {
+            "Key": "738e7182-b6d2-4fbf-8fc1-e65d62d7608a",
+            "Value": {
+                "id": "645df353-310a-4e8c-8575-c7a3947325dd",
+                "resourcePath": "objects\\addGrid\\addGrid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "74201976-1042-45fc-ae6f-0355970768b9",
             "Value": {
                 "id": "31a8ab04-5b6b-4510-9028-3c9c0c209b3a",
@@ -895,6 +903,14 @@
             }
         },
         {
+            "Key": "e66be293-34f6-4eee-b4a7-88c8c217c5f5",
+            "Value": {
+                "id": "8b1678a6-39b0-47ae-9d51-b3fd9e9aec63",
+                "resourcePath": "scripts\\scriptDrawGrid\\scriptDrawGrid.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "eb63b00b-0fb8-48e2-9fb8-cae64e309e1e",
             "Value": {
                 "id": "57d054e8-0a53-4a81-9205-0e33bc2a3393",
@@ -940,14 +956,6 @@
                 "id": "cce8635a-baec-4bf2-87ea-2f8677b97349",
                 "resourcePath": "objects\/Brick\/Brick.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
-            "Value": {
-                "id": "cdf90b6e-82a4-44ed-a52e-b2bd336cfa14",
-                "resourcePath": "options\/mac\/options_mac.yy",
-                "resourceType": "GMMacOptions"
             }
         },
         {
@@ -1019,7 +1027,8 @@
         "e192a212-22c0-493f-b048-debd3a0f7593",
         "9425d230-db2a-423f-a39a-430159ddbf91",
         "acc3f7e3-fd66-476c-b6e9-a6a00be1d865",
-        "8fe511e5-2e5b-48db-8dd9-6316cdeb7963"
+        "8fe511e5-2e5b-48db-8dd9-6316cdeb7963",
+        "e66be293-34f6-4eee-b4a7-88c8c217c5f5"
     ],
     "tutorial": ""
 }
