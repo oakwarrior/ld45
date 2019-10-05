@@ -7,7 +7,16 @@
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": null,
+    "overriddenProperties": [
+        {
+            "id": "8c1af3ce-04c1-47eb-bc42-bedb9347a9a9",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "1eb4dae7-f7e4-4c4f-9aa9-026c3b319cf4",
+            "propertyId": "3b00700e-05e6-4067-b801-57b482386fc8",
+            "value": "BrickGameObject"
+        }
+    ],
     "parentObjectId": "1eb4dae7-f7e4-4c4f-9aa9-026c3b319cf4",
     "persistent": false,
     "physicsAngularDamping": 0.1,
@@ -51,7 +60,9 @@
         }
     ],
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        
+    ],
     "solid": false,
     "spriteId": "4aa14de1-97f5-4213-8d73-918874dad948",
     "visible": true
