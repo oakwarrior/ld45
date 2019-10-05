@@ -2,7 +2,7 @@
     "id": "76c100fc-13b9-4702-be92-88ed1914c3b3",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oControl",
+    "name": "oDragControl",
     "eventList": [
         {
             "id": "ce38216d-e255-41c5-8c45-a4e650b2e9fb",

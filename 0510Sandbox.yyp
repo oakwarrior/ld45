@@ -306,7 +306,7 @@
             "Key": "76c100fc-13b9-4702-be92-88ed1914c3b3",
             "Value": {
                 "id": "3797c1ea-f445-4b46-b5cf-9a7eb0983576",
-                "resourcePath": "objects\\oControl\\oControl.yy",
+                "resourcePath": "objects\\oDragControl\\oDragControl.yy",
                 "resourceType": "GMObject"
             }
         },

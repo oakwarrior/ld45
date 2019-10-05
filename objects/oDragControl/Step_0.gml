@@ -34,7 +34,10 @@ if (mouse_check_button_pressed(mb_left)) {
 }
 
 if (mouse_check_button_released(mb_left)) {
-    with (obj_drag_object) {
-        draggable = false;
-    }
+	if(obj_drag_object != noone) {
+		with (obj_drag_object) {
+			draggable = false;
+		}
+	}
+    
 }
