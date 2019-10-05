@@ -8,7 +8,8 @@
         "1eb4dae7-f7e4-4c4f-9aa9-026c3b319cf4",
         "1bdd19a4-cd11-4fde-be05-6d71e31d648f",
         "d69c06c0-f0e5-4717-842a-775b2b12587d",
-        "3f65a746-25a8-4dda-b67b-d30d74ae098b"
+        "3f65a746-25a8-4dda-b67b-d30d74ae098b",
+        "846bbc32-27ca-492b-b95e-d030f1e38d37"
     ],
     "filterType": "GMObject",
     "folderName": "DragAndDrop",

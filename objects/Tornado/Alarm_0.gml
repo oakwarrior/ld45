@@ -12,7 +12,22 @@ for (var i = 0; i < array_length_1d(layer_elements); i++;) {
 	
 	if (variable_instance_exists(object, "nothing_tornado") && object.nothing_tornado == true) {
 		object.phy_speed_y += irandom_range(-1, 1);
-		object.phy_speed_x += irandom_range(-1, 1);
+		
+		if(object.x >= 200 && object.x <= 300) {
+			object.phy_speed_x += irandom_range(0.0, 4.5);
+		}
+		else if(object.x > 300 && object.x <= 400) {
+			object.phy_speed_x += irandom_range(0.0, -4.5);
+		}
+		else if(object.x < 200) {
+			object.phy_speed_x += irandom_range(0.0, 2.5);
+		}
+		else if(object.x > 400) {
+			object.phy_speed_x += irandom_range(-2.5, 0.0);
+		}
+		
+		
+		
 		object.phy_angular_velocity += irandom_range(-15, 15);
 		 
 		show_debug_message("TORNADO!");
