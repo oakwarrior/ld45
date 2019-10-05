@@ -1,7 +1,8 @@
 /// @description  Movement
 
 // Input //////////////////////////////////////////////////////////////////////
-
+event_inherited()
+if draggable = false and x > 30 and x < 680 and y > 120 and y <620 {
 var kLeft, kRight, kUp, kDown, kJump, kJumpRelease;
 
 kLeft        = keyboard_check(vk_left)           || gamepad_axis_value(0, gp_axislh) < -0.40;
@@ -140,4 +141,8 @@ if (!onGround) {
 }
 
 
+/// @description Insert description here
+// You can write your code in this editor
 
+
+}
