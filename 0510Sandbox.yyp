@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "02cd5253-f19b-4dfb-86b8-83350453ebc4",
+            "Value": {
+                "id": "d53fd579-d2bb-4aa2-9bc1-35b4234caa8a",
+                "resourcePath": "sprites\\foxen_wimdy\\foxen_wimdy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "02e006b7-8d47-41e5-bf63-32414be2829c",
             "Value": {
                 "id": "9af8bf7a-4b8a-404e-a664-7eb45be55e7c",
@@ -1023,6 +1031,14 @@
             }
         },
         {
+            "Key": "dbe73234-0a21-4107-ada3-6387ab8b584d",
+            "Value": {
+                "id": "02acb820-7301-42dc-8624-837c72a490e6",
+                "resourcePath": "sprites\\foxen_0\\foxen_0.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "de06987f-321c-4804-8fc0-1fc09ac5b5b2",
             "Value": {
                 "id": "9953930c-8ae8-45b7-ba95-296631b4bd9a",
@@ -1076,6 +1092,14 @@
                 "id": "f43f1e4e-b7fa-4b9e-9ce5-6dd12b0f4c68",
                 "resourcePath": "objects\\Cat1GameObject\\Cat1GameObject.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e8e6911b-48f5-4777-9b3e-61c10c6e887a",
+            "Value": {
+                "id": "ea374b8f-7b37-4f41-a427-3ecae766d4a1",
+                "resourcePath": "sprites\\Pongodrum\\Pongodrum.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
