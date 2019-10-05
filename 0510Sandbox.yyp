@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "05123f24-5a0b-4ecb-abba-5d8f054cb7e5",
+            "Value": {
+                "id": "6c868fcd-4775-4209-9ae6-edfd4d9a35a8",
+                "resourcePath": "views\\05123f24-5a0b-4ecb-abba-5d8f054cb7e5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0512cb9a-f10f-4ecf-b18c-a3ca33be102e",
             "Value": {
                 "id": "0379eeb4-9691-42a1-8d8b-b9055cf8aace",
@@ -351,6 +359,14 @@
             }
         },
         {
+            "Key": "8163b76a-adef-4a42-97eb-04053e5ae1c6",
+            "Value": {
+                "id": "c9991f6b-c470-48a0-b233-1d879d45db11",
+                "resourcePath": "objects\\oFontLoader\\oFontLoader.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "87bec39c-1bf5-48de-bf35-b3118be8cac9",
             "Value": {
                 "id": "ea261226-5b36-4c13-aa36-bc69456c81d8",
@@ -380,6 +396,14 @@
                 "id": "989f9c97-3498-4506-b9e8-610540db7ef1",
                 "resourcePath": "scripts\\@__global_object_depths\\__global_object_depths.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "909254ae-51a1-482b-ad9f-bd707adb6a15",
+            "Value": {
+                "id": "e0ee3f98-c88b-41e8-a2d9-2df8681a001d",
+                "resourcePath": "datafiles_yy\\Fonts\\yoster.ttf.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {

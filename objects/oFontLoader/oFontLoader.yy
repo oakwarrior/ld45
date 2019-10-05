@@ -1,28 +1,18 @@
 {
-    "id": "76c100fc-13b9-4702-be92-88ed1914c3b3",
+    "id": "8163b76a-adef-4a42-97eb-04053e5ae1c6",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oDragControl",
+    "name": "oFontLoader",
     "eventList": [
         {
-            "id": "ce38216d-e255-41c5-8c45-a4e650b2e9fb",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "76c100fc-13b9-4702-be92-88ed1914c3b3"
-        },
-        {
-            "id": "ab88a0b7-1225-4786-abe7-e9819c98fa8e",
+            "id": "93b5e249-711e-42eb-92f8-1f4b04f64827",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "76c100fc-13b9-4702-be92-88ed1914c3b3"
+            "m_owner": "8163b76a-adef-4a42-97eb-04053e5ae1c6"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
