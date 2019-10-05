@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "14b6d8ff-29a9-4cd6-9db2-6ceb87ead6d0",
+            "Value": {
+                "id": "46983b45-4695-431b-b984-20c2da92348d",
+                "resourcePath": "sprites\\Blinkot\\Blinkot.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1654ec4d-915f-431a-a25b-f026b6da40b1",
             "Value": {
                 "id": "cc71b274-af8d-4928-add4-a004b29adba2",
@@ -231,11 +239,27 @@
             }
         },
         {
+            "Key": "2fc7fe5c-9e2a-4439-ba04-d5a916d1884b",
+            "Value": {
+                "id": "33293778-d74d-4770-a7d7-47dcda10a9d8",
+                "resourcePath": "objects\\BlinGameObject\\BlinGameObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "358796b4-9994-4649-8c88-b40be128c861",
             "Value": {
                 "id": "0a7a6be4-73a2-4fd6-9295-d81d6006e8c6",
                 "resourcePath": "views\/358796b4-9994-4649-8c88-b40be128c861.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "35eeba72-d28b-49f3-b739-909ff0f76e5d",
+            "Value": {
+                "id": "8655389c-1f76-40c1-adcd-6c74e27f73ac",
+                "resourcePath": "objects\\DraggableCat1\\DraggableCat1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -299,6 +323,14 @@
             "Value": {
                 "id": "4e23de68-e6a5-492f-8abf-7797afee2727",
                 "resourcePath": "sprites\/brick_sprite\/brick_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4af5110a-7dbf-4de3-9865-79dd09050c7f",
+            "Value": {
+                "id": "18bcc6c5-5458-4492-8bc7-9c9203d41098",
+                "resourcePath": "sprites\\blin_0\\blin_0.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -484,6 +516,14 @@
                 "id": "31a8ab04-5b6b-4510-9028-3c9c0c209b3a",
                 "resourcePath": "views\/74201976-1042-45fc-ae6f-0355970768b9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "764aaa9a-26a2-4dae-a180-98c9c35966a1",
+            "Value": {
+                "id": "95eb1556-8cd8-4b83-8270-eef71aafa20d",
+                "resourcePath": "objects\\DraggableBlin\\DraggableBlin.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -988,6 +1028,14 @@
                 "id": "c4bf6ea1-ccfd-4da5-93ed-386692843c66",
                 "resourcePath": "views\/e5634c5e-8e14-4c1e-b496-2016b0557d7b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e8a6ac7c-a66a-4a9f-b97d-5d8444368d4c",
+            "Value": {
+                "id": "f43f1e4e-b7fa-4b9e-9ce5-6dd12b0f4c68",
+                "resourcePath": "objects\\Cat1GameObject\\Cat1GameObject.yy",
+                "resourceType": "GMObject"
             }
         },
         {
