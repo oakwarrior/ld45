@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "3f65a746-25a8-4dda-b67b-d30d74ae098b",
+            "Value": {
+                "id": "4540ccf7-74ca-4c21-829d-6c219fc5fd1f",
+                "resourcePath": "objects\\DraggableTornado\\DraggableTornado.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3fdcca2f-5dbb-4f4b-a687-3ea6ce88de1d",
             "Value": {
                 "id": "340eaf39-95e4-46fc-be52-a8574b91a002",
@@ -295,6 +303,14 @@
             }
         },
         {
+            "Key": "5c0ec750-1b1c-4564-b979-f7777ee7da21",
+            "Value": {
+                "id": "58e1c23d-1227-41be-9541-e29f0a8da675",
+                "resourcePath": "objects\\object37\\object37.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5cc12f9b-9ea0-43cc-8623-98e428343817",
             "Value": {
                 "id": "866358cc-582a-49dc-bca0-3a440e68183a",
@@ -332,6 +348,14 @@
                 "id": "2cb5ac8e-c9a2-48cb-94f7-687befeb6573",
                 "resourcePath": "views\\652bfaa3-3c52-478a-9889-a77e3328c081.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "65700b45-f489-49d9-9d52-d5e23c1ca71e",
+            "Value": {
+                "id": "271fc591-525f-4b1a-93ae-6b4069ee36d1",
+                "resourcePath": "objects\\Tornado\\Tornado.yy",
+                "resourceType": "GMObject"
             }
         },
         {

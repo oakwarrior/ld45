@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+physics_world_gravity(0, 0);
 var i;
 for (i = 0; i < instance_count; i += 1;)
    {
@@ -13,5 +14,6 @@ for (i = 0; i < instance_count; i += 1;)
 		{	
 			instance_destroy()
 		}
+		
    }
    }
