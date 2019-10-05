@@ -1,7 +1,25 @@
 /// @description  Variables
-
+event_inherited()
 // Inherit Entity
-event_inherited();
+jumped = false;
+landed = false;
+
+platformTarget = 0;
+wallTarget     = 0;
+
+// Velocity
+vx = 0;
+vy = 0;
+
+// Used for sub-pixel movement
+cx = 0;
+cy = 0;
+
+onGround = OnGround();
+cLeft    = place_meeting(x - 1, y, oBlock);
+cRight   = place_meeting(x + 1, y, oBlock);
+
+// end of inherit
 
 facing = 1;
 
@@ -16,7 +34,9 @@ vyMax       = 16.0;
 jumpHeight  = 9.00;
 gravNorm    = 0.66;
 gravSlide   = 0.33; 
-
+draw = false
+ui_template_var2 = true
+object_player = true
 clingTime   = 4.0;
 
 // Misc ///////////////////////////////////////////////////////////////////////
@@ -28,11 +48,11 @@ JUMP      = 12;
 
 // Initialize properties
 state  = IDLE;
-facing = image_xscale; // Change xscale in editor to adjust initial facing
+//facing = image_xscale; // Change xscale in editor to adjust initial facing
 
 // For squash + stretch
-xscale = 1;
-yscale = 1;
+xscale = image_xscale;
+yscale = image_yscale;
 
 ///////////////////////////////////////////////////////////////////////////////
 

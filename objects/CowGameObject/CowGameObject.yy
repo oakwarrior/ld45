@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "CowGameObject",
     "eventList": [
-        
+        {
+            "id": "cccb3b47-511b-41ee-8f77-2c1c64dc3dcf",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "542e8fd7-7769-43ac-bf5b-7fc3ac75f46c"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

@@ -7,9 +7,7 @@
         "3fdcca2f-5dbb-4f4b-a687-3ea6ce88de1d",
         "a57d91f2-5e56-439e-9d2b-5c26611b7daa",
         "6d6887b3-1e93-40ee-81e8-85f988cc8191",
-        "0badaac3-3c2b-4e5d-a933-c00fc93c9564",
-        "f3d516fe-a2ad-48f7-acc3-153f341d66d7",
-        "1eb4dae7-f7e4-4c4f-9aa9-026c3b319cf4"
+        "0badaac3-3c2b-4e5d-a933-c00fc93c9564"
     ],
     "filterType": "GMObject",
     "folderName": "Parents",

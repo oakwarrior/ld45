@@ -1,6 +1,21 @@
+if draggable = false and x > 30 and x < 580 and y > 120 and y <510 {
 var onGroundPrev = onGround;
 
-event_inherited();
+// beginning of inherit
+onGround = OnGround();
+
+cLeft  = place_meeting(x - 1, y, oBlock); 
+cRight = place_meeting(x + 1, y, oBlock);
+
+if (cLeft) 
+    wallTarget = instance_place(x - 1, y, oBlock);
+
+if (cRight) 
+    wallTarget = instance_place(x + 1, y, oBlock);
+
+
+
+// end of inherit
 
 // Landing after jump
 if (onGround && !onGroundPrev) {
@@ -13,3 +28,4 @@ if (onGround && !onGroundPrev) {
         instance_create(random_range(bbox_left, bbox_right), bbox_bottom, oFxDust);
 }
 
+}

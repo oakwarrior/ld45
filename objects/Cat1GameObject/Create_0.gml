@@ -3,5 +3,6 @@
 
 // Inherit the parent event
 event_inherited();
-
+ui_template_var2 = true
+obj_enemy = true
 isTransformed = false;

@@ -1,7 +1,8 @@
 /// @description  Movement
 
 // Input //////////////////////////////////////////////////////////////////////
-
+event_inherited()
+if draggable = false and x > 30 and x < 680 and y > 120 and y <620 {
 var kLeft, kRight, kUp, kDown, kJump, kJumpRelease;
 
 kLeft        = keyboard_check(vk_left)           || gamepad_axis_value(0, gp_axislh) < -0.40;
@@ -140,4 +141,25 @@ if (!onGround) {
 }
 
 
+/// @description Insert description here
+// You can write your code in this editor
+for (var k = 0 ; k < ds_grid_height(global.enemyTable) ; k++)
+{
+if place_meeting(x-4,y,ds_grid_get(global.enemyTable,0,k))
+or place_meeting(x+4,y,ds_grid_get(global.enemyTable,0,k))
+or place_meeting(x,y-4,ds_grid_get(global.enemyTable,0,k))
+or place_meeting(x,y+4,ds_grid_get(global.enemyTable,0,k))
+{
+with (ds_grid_get(global.enemyTable,0,k))
+{
+if global.goalLife = true
+{
+global.livesQty -=1	
+}
+instance_destroy()
+}
+}
+}
 
+
+}
