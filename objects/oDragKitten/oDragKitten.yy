@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oDragKitten",
     "eventList": [
-        
+        {
+            "id": "2f90ce69-ddb1-4ae4-945b-aaa42228aa5c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 64,
+            "eventtype": 8,
+            "m_owner": "ebed1ae9-120d-4069-b3df-db30175784ad"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
