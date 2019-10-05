@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "5b1c7cdd-5b8e-4b50-95fd-08eb4e97b95d",
+            "Value": {
+                "id": "739bf62b-184e-4db6-996c-10f72ee18167",
+                "resourcePath": "fonts\\fYosterIsland\\fYosterIsland.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "5cc12f9b-9ea0-43cc-8623-98e428343817",
             "Value": {
                 "id": "866358cc-582a-49dc-bca0-3a440e68183a",
