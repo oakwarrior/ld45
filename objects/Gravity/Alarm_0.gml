@@ -9,8 +9,6 @@ for (var i = 0; i < array_length_1d(layer_elements); i++;) {
 	var layerelement_id = layer_elements[i];
 	var object = layer_instance_get_instance(layerelement_id)
 	
-
-	
 	if (variable_instance_exists(object, "nothing_physics") && object.nothing_physics == true) {
 		physics_world_gravity(0, 10);
 	}

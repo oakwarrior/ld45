@@ -13,9 +13,9 @@ for (var i = 0; i < array_length_1d(layer_elements); i++;) {
 	if (variable_instance_exists(object, "nothing_tornado") && object.nothing_tornado == true) {
 		object.phy_speed_y += irandom_range(-1, 1);
 		object.phy_speed_x += irandom_range(-1, 1);
-		object.phy_angular_velocity += irandom_range(-5, 5);
+		object.phy_angular_velocity += irandom_range(-15, 15);
 		 
-		show_debug_message("TORNADO!" + string(object.speed) + " " + string(object.direction));
+		show_debug_message("TORNADO!");
 	}
 }
 

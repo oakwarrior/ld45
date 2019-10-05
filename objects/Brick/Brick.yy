@@ -118,20 +118,6 @@
             "value": "True",
             "varName": "nothing_tornado",
             "varType": 3
-        },
-        {
-            "id": "9d7e3206-8d6d-4cae-a0c2-2f80d70f8276",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "nothing_fixture",
-            "varType": 0
         }
     ],
     "solid": false,
