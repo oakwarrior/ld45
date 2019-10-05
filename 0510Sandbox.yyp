@@ -583,6 +583,14 @@
             }
         },
         {
+            "Key": "a8270cc0-c1ae-4cb5-b6c6-cda2c1f070f6",
+            "Value": {
+                "id": "a62d6757-a4c4-4e7e-8e7e-eb056f10cf58",
+                "resourcePath": "objects\\oStart\\oStart.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9225b0c-3b83-43a3-969d-b8033403c1fa",
             "Value": {
                 "id": "74678b12-dffc-4047-8f4e-12d6b240769e",
@@ -735,6 +743,14 @@
             }
         },
         {
+            "Key": "d69c06c0-f0e5-4717-842a-775b2b12587d",
+            "Value": {
+                "id": "1529cccd-6529-4324-abc8-2a80c326c490",
+                "resourcePath": "objects\\DraggableGravity\\DraggableGravity.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d6bdbefb-3c5a-4d5d-a4dd-e43947848281",
             "Value": {
                 "id": "6c10e8d5-d5bf-433b-8ef4-742c480201f6",
@@ -815,7 +831,7 @@
             }
         },
         {
-            "Key": "edf44ed0-8a01-4f34-b963-ae82d9bdcfb8",
+            "Key": "ebed1ae9-120d-4069-b3df-db30175784ad",
             "Value": {
                 "id": "755729d4-fc2b-4cf6-8be8-7c13945a40b2",
                 "resourcePath": "objects\\DraggableGravity\\DraggableGravity.yy",
