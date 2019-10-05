@@ -1,5 +1,3 @@
-show_debug_message("ENABLING GRAVITY!")
-
 visible = false
 
 var layerid = layer_get_id("GameObjects");

@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "02e006b7-8d47-41e5-bf63-32414be2829c",
+            "Value": {
+                "id": "9af8bf7a-4b8a-404e-a664-7eb45be55e7c",
+                "resourcePath": "objects\\DraggableControl\\DraggableControl.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "039e5949-4849-46f7-be1a-37d305516fca",
             "Value": {
                 "id": "47c4dbcf-b72e-4743-8962-8b323981d64a",
@@ -111,6 +119,14 @@
             }
         },
         {
+            "Key": "1a91cb35-ea9d-495e-bd0d-1e0a5ac3a144",
+            "Value": {
+                "id": "98cce70b-609c-4442-8eaa-69a21e64e5bf",
+                "resourcePath": "sprites\\control_sprite\\control_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1bdd19a4-cd11-4fde-be05-6d71e31d648f",
             "Value": {
                 "id": "ec899b5b-9d5d-4395-bc1d-13da74ad1355",
@@ -167,6 +183,14 @@
             }
         },
         {
+            "Key": "272709ff-c4a8-40d3-9be6-3442c4a4ccdf",
+            "Value": {
+                "id": "abeaa48e-1bcf-4d7c-8c6d-6d2e66c0d327",
+                "resourcePath": "sprites\\spaceship_sprite\\spaceship_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2855fa4d-9a42-4d6e-bed2-85f513c916e8",
             "Value": {
                 "id": "d127c4af-1580-455a-a593-b8c4720610d3",
@@ -188,6 +212,14 @@
                 "id": "ac7a7ce9-4d4e-4d22-843c-174dd8df4ab2",
                 "resourcePath": "views\\b71fba16-c370-4824-9be7-6a53e2db5cc4-room.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "328cc400-ee4e-4718-8098-9be6c8abbae4",
+            "Value": {
+                "id": "78b36164-e884-4b65-90e4-8a6bc5c237c8",
+                "resourcePath": "objects\\DraggableSpaceship\\DraggableSpaceship.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -391,6 +423,14 @@
             }
         },
         {
+            "Key": "75fc14b0-8ec8-4645-9372-00e8c0130b45",
+            "Value": {
+                "id": "fe126ab7-8a08-4251-ab9a-8a57e014be7f",
+                "resourcePath": "objects\\Spaceship\\Spaceship.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "76c100fc-13b9-4702-be92-88ed1914c3b3",
             "Value": {
                 "id": "3797c1ea-f445-4b46-b5cf-9a7eb0983576",
@@ -463,11 +503,27 @@
             }
         },
         {
+            "Key": "83b1246e-f7e6-4ec1-b075-d038e0cbc821",
+            "Value": {
+                "id": "368bae66-4b1b-4002-a4a8-9e1bd0afb442",
+                "resourcePath": "objects\\Control\\Control.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "87bec39c-1bf5-48de-bf35-b3118be8cac9",
             "Value": {
                 "id": "ea261226-5b36-4c13-aa36-bc69456c81d8",
                 "resourcePath": "scripts\\PlatformCheck\\PlatformCheck.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "88f55f6c-ae4b-43a2-9e01-6265ede85505",
+            "Value": {
+                "id": "f526461e-9ede-42b7-b9a7-0836da0ffb23",
+                "resourcePath": "objects\\border\\border.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -812,6 +868,14 @@
                 "id": "d79044ec-2181-4232-a856-e215baf7bcb6",
                 "resourcePath": "objects\\mechanics_title\\mechanics_title.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e46a3540-9b19-4249-822c-7e83a8833fbe",
+            "Value": {
+                "id": "1849e7d9-6895-41e5-9708-d21eefd5e516",
+                "resourcePath": "sprites\\border_sprite\\border_sprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
