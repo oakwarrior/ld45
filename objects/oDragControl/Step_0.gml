@@ -41,6 +41,7 @@ and mouse_y > 120 and mouse_y <510
 	if(obj_drag_object != noone) {
 		with (obj_drag_object) {
 			draggable = false;
+			layer = layer_get_id("GameObjects");
 		}
 	}
     
