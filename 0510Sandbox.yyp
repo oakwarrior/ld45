@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "143cc2aa-9c58-49fe-8330-47372a823e0f",
+            "Value": {
+                "id": "c82a1511-5d07-4ac1-8287-63d248c20700",
+                "resourcePath": "objects\/Cow\/Cow.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1654ec4d-915f-431a-a25b-f026b6da40b1",
             "Value": {
                 "id": "cc71b274-af8d-4928-add4-a004b29adba2",
@@ -439,6 +447,14 @@
             }
         },
         {
+            "Key": "89a238e1-235d-458f-8fdb-a14da47e5792",
+            "Value": {
+                "id": "6661e4e6-692b-4e60-b2ac-48f15882883d",
+                "resourcePath": "sprites\/Lootbox_closed\/Lootbox_closed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8af80142-998d-44df-a970-1bf602a6f5a4",
             "Value": {
                 "id": "1f227cad-e1e3-47af-acc0-dcee51c628fa",
@@ -551,6 +567,14 @@
             }
         },
         {
+            "Key": "a7ab646b-2875-4000-aa59-181e027dfcfc",
+            "Value": {
+                "id": "6ffed99a-9655-4794-af4d-f99d9695057a",
+                "resourcePath": "sprites\/Lootbox_opening\/Lootbox_opening.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9225b0c-3b83-43a3-969d-b8033403c1fa",
             "Value": {
                 "id": "74678b12-dffc-4047-8f4e-12d6b240769e",
@@ -579,6 +603,14 @@
             "Value": {
                 "id": "145e0ca5-a173-4511-b638-84dd8d80affb",
                 "resourcePath": "objects\/oCircleMover\/oCircleMover.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b5b2fd34-411c-43c3-a8b8-dfd402f443d0",
+            "Value": {
+                "id": "c0144968-c7fe-4955-ab08-d74d3e223755",
+                "resourcePath": "objects\/Lootbox\/Lootbox.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -759,11 +791,27 @@
             }
         },
         {
+            "Key": "e93c335b-8eba-4da9-9f3e-2074a7cbc968",
+            "Value": {
+                "id": "3c536bf6-8903-4934-b954-58e97114745b",
+                "resourcePath": "rooms\/BelsTestRoom\/BelsTestRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "ebed1ae9-120d-4069-b3df-db30175784ad",
             "Value": {
                 "id": "4f4fd59a-432d-4738-982b-088ec0cf23a9",
                 "resourcePath": "objects\/oDragKitten\/oDragKitten.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ef0f77f6-e708-4068-b6bd-61ff576fddcb",
+            "Value": {
+                "id": "fc8b6a1c-1399-42e3-abff-afbc78047e6c",
+                "resourcePath": "views\/ef0f77f6-e708-4068-b6bd-61ff576fddcb.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
