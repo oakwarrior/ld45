@@ -2,7 +2,7 @@
 {
     "name": "oaktestroom",
     "id": "ce4bb539-a93b-40b0-97fa-8b624893cd26",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
