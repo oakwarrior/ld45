@@ -17,7 +17,7 @@ for (i = 0; i < instance_count; i += 1;)
 		   }
 	   }
    }	
-if global.goalTime = true
+//if global.goalTime = true
 {
 if global.startedPlaying = true
 {
