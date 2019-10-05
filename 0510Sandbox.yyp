@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "02cd5253-f19b-4dfb-86b8-83350453ebc4",
+            "Value": {
+                "id": "c6ebd50f-5381-4d94-a10c-5463bc35f487",
+                "resourcePath": "sprites\\foxen_wimdy\\foxen_wimdy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "02e006b7-8d47-41e5-bf63-32414be2829c",
             "Value": {
                 "id": "9af8bf7a-4b8a-404e-a664-7eb45be55e7c",
@@ -1228,6 +1236,14 @@
                 "id": "f43f1e4e-b7fa-4b9e-9ce5-6dd12b0f4c68",
                 "resourcePath": "objects\\Cat1GameObject\\Cat1GameObject.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e8e6911b-48f5-4777-9b3e-61c10c6e887a",
+            "Value": {
+                "id": "2517c952-14f6-4f3d-b541-06b950235e24",
+                "resourcePath": "sprites\\Pongodrum\\Pongodrum.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
