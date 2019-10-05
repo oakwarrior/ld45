@@ -35,22 +35,16 @@ if (mouse_check_button_pressed(mb_left)) {
 
 if (mouse_check_button_released(mb_left)) 
 {
-if mouse_x > 30 and mouse_x <580
-and mouse_y > 120 and mouse_y <510
-{
-	if(obj_drag_object != noone) {
+	if (obj_drag_object != noone) {
 		with (obj_drag_object) {
 			draggable = false;
-		}
-	}
-    
-}
-else
-{
-	if(obj_drag_object != noone) {
-		with (obj_drag_object) {
-			instance_destroy()
-		}
-	}	
-}
+			instance_destroy();
+			if mouse_x > 30 and mouse_x < 580 and mouse_y > 120 and mouse_y <510 {
+				var object = instance_create(mouse_x, mouse_y, nothing_object)
+				object.layer = layer_get_id("GameObjects");
+			}
+		}			
+	}    
+	
+	
 }
