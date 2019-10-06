@@ -3,6 +3,8 @@
 physics_world_gravity(0, 0);
 global.memes = false;
 global.tornado = false;
+global.gravityvar = 10;
+global.funvar = 1;
 
 var i;
 for (i = 0; i < instance_count; i += 1;)
