@@ -1,7 +1,7 @@
 /// @description  Debug
 
 // Input variables for debug room traversal
-var kRestart, kExit, kPrev, kNext;
+/*var kRestart, kExit, kPrev, kNext;
 
 kRestart = keyboard_check_pressed(ord("R"))    || gamepad_button_check_pressed(0, gp_select);
 kExit    = keyboard_check_pressed(vk_escape);
@@ -27,10 +27,14 @@ if (kNext) {
         room_goto(room_first);
     else
         room_goto_next();
-}
+}*/
 
 /// Debug for path based platform
-if (mouse_check_button_pressed(mb_left)) {
+if CanCreate = true
+{
+if (mouse_check_button_pressed(mb_left)) 
+and mouse_x > 30 and mouse_x < 610 and mouse_y > 120 and mouse_y <520 
+{
     if (instance_exists(oPathMover)) {
         with (oPathMover) {
             plen = path_get_length(path);
@@ -42,7 +46,9 @@ if (mouse_check_button_pressed(mb_left)) {
     }
 } 
 
-if (mouse_check_button(mb_left)) {
+if (mouse_check_button(mb_left))
+and mouse_x > 30 and mouse_x < 610 and mouse_y > 120 and mouse_y <520 
+{
     if (instance_exists(oPathMover)) {
         with (oPathMover) {
             plen = path_get_length(path);
@@ -58,11 +64,19 @@ if (mouse_check_button(mb_left)) {
             pMov = false;
         }
     }
-} else {
+}
+else if (mouse_check_button(mb_left)) and instance_exists(oSpawn)
+and mouse_x <= 30 or (mouse_check_button(mb_left))  and instance_exists(oSpawn) and mouse_x >= 610 or (mouse_check_button(mb_left))  and instance_exists(oSpawn) and mouse_y <= 120
+or (mouse_check_button(mb_left))  and instance_exists(oSpawn) and mouse_y >= 520 
+{
+show_debug_message("juz nie kreuje")	
+CanCreate = false	
+}
+else if !(mouse_check_button(mb_left)){
     with (oPathMover)
         pMov = true;
 }
-
+}
 with (oPathMover) {
     pSpd += (mouse_wheel_up() - mouse_wheel_down()) * 2;
     pSpd  = clamp(pSpd, 1, 16);

@@ -11,7 +11,8 @@ for (var i = 0; i < array_length_1d(layer_elements); i++;) {
 	var object = layer_instance_get_instance(layerelement_id)
 	
 	
-	if (variable_instance_exists(object, "nothing_tornado") && object.nothing_tornado == true) {
+	if (variable_instance_exists(object, "nothing_tornado") && !variable_instance_exists(object, "tornado_blocker") && object.nothing_tornado == true) {
+		show_debug_message("zacinam sie na " + string(object))
 		object.phy_speed_y += irandom_range(-1, 1);
 		
 		if(object.x >= 200 && object.x <= 300) {

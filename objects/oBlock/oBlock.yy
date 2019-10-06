@@ -24,7 +24,22 @@
         
     ],
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "cec9518b-f5e2-4baa-99b2-9e7309f28f5f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "nothing_tornado1",
+            "varType": 3
+        }
+    ],
     "solid": false,
     "spriteId": "29f43ad8-eea9-4f99-a077-d327baa01235",
     "visible": false

@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "26a7469e-265a-4b69-aecc-d23f17c754a3",
+            "Value": {
+                "id": "a9963b8a-9d2c-46eb-8201-f68f3551b934",
+                "resourcePath": "objects\\enemyArrowDown\\enemyArrowDown.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "272709ff-c4a8-40d3-9be6-3442c4a4ccdf",
             "Value": {
                 "id": "abeaa48e-1bcf-4d7c-8c6d-6d2e66c0d327",
@@ -431,6 +439,14 @@
             }
         },
         {
+            "Key": "3bf0f1b3-5c17-42a4-8717-0560a838a3e4",
+            "Value": {
+                "id": "7d6179fc-eec4-42d7-9527-98a41af2c2ea",
+                "resourcePath": "objects\\DraggableTower3\\DraggableTower3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3c36ce44-7514-40b3-a3c8-8402fb545aa7",
             "Value": {
                 "id": "fd1aaa2c-40a3-41ed-a6da-287718edd8f4",
@@ -555,6 +571,14 @@
             "Value": {
                 "id": "b488d652-0aec-4557-96ba-4f160c67d7a4",
                 "resourcePath": "objects\/CowGameObject\/CowGameObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "56caf0e4-3bea-419e-b8a0-3ee5a7f24ff9",
+            "Value": {
+                "id": "b7d62023-d659-4e9d-b13f-ccd82bcac065",
+                "resourcePath": "objects\\enemyArrowUp\\enemyArrowUp.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -983,6 +1007,14 @@
             }
         },
         {
+            "Key": "91586e2a-c6c9-4590-9479-b63d78f91ab8",
+            "Value": {
+                "id": "f69a9a3c-690f-4e67-977b-bb6603ae7c50",
+                "resourcePath": "objects\\hpArrowUp\\hpArrowUp.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "91916860-5a92-4e7e-b655-5110c469f883",
             "Value": {
                 "id": "1aee9f1f-d99f-434e-97a1-47978e8ae15b",
@@ -1055,6 +1087,14 @@
             }
         },
         {
+            "Key": "9dc82b67-63aa-412f-a785-2449d64cafe8",
+            "Value": {
+                "id": "1c8c6a4a-b27c-4152-9ffc-7203b4b23ce0",
+                "resourcePath": "objects\\hpArrowDown\\hpArrowDown.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9dcf4c2e-1c1a-4a3b-91d9-81ed503844dd",
             "Value": {
                 "id": "97314482-df5e-4949-8ec5-18f90b415cbe",
@@ -1092,6 +1132,14 @@
                 "id": "710c5097-08c8-4902-bec6-e4b093328d7d",
                 "resourcePath": "rooms\/rmTest1\/rmTest1.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a33f951f-e5d1-42fb-80b5-5b621ea9c221",
+            "Value": {
+                "id": "aa672534-2da2-4780-8a8f-77645db3e210",
+                "resourcePath": "objects\\hordeSpecs\\hordeSpecs.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1588,6 +1636,14 @@
                 "id": "ae5d3f82-55f0-4530-84c3-239cdd5a0a75",
                 "resourcePath": "views\/ff885a87-a5b7-4481-b218-a0660d793779.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fff02db3-5cd0-4c9e-b3a2-81ff198cb436",
+            "Value": {
+                "id": "5b4430cc-c896-4aad-9e65-c0920024e819",
+                "resourcePath": "objects\\DraggableTower2\\DraggableTower2.yy",
+                "resourceType": "GMObject"
             }
         }
     ],

@@ -1,7 +1,8 @@
+
 if(instance_number(oPathMover) <= 0){
 	
 	spawn_count = 0;
-	spawn_amount++;
+	global.spawn_amount++;
 	global.level++;
 	global.hitPoints += 10;
 	global.enemySpeed += 0.1;
@@ -10,4 +11,4 @@ if(instance_number(oPathMover) <= 0){
 	
 }
 
-alarm[1] = room_speed * 5;
+//alarm[1] = room_speed * 5;
