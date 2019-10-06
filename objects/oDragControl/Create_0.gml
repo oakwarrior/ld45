@@ -4,3 +4,5 @@ obj_drag_object = noone
 physics_world_gravity(0,0);
 global.memes = false;
 global.tornado = false;
+global.gravityvar = 10;
+global.funvar = 1.5;

@@ -1,4 +1,4 @@
-
+global.funvar += 1.5;
 
 visible = false
 
@@ -14,7 +14,7 @@ for (var i = 0; i < array_length_1d(layer_elements); i++;) {
 		fix = physics_fixture_create();
 		physics_fixture_set_box_shape(fix,object.sprite_width / 2,object.sprite_height / 2);
 		physics_fixture_set_density(fix,0.5);
-		physics_fixture_set_restitution(fix,1.5);
+		physics_fixture_set_restitution(fix, global.funvar);
 		physics_fixture_bind(fix, object);
 		physics_fixture_delete(fix);
 		 
