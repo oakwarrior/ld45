@@ -31,9 +31,12 @@ for (i = 0; i < instance_count; i += 1;)
  
 global.startedPlaying = false 
 global.goalMeta = false
+global.goalLife = false
 global.goalPoints = false
 global.goalTime = false
 global.goalEnemies = false
 goals_controller.OncePlayer = true
 global.playerId = 0
+ds_grid_destroy(global.enemyTable)
+global.enemyTable = ds_grid_create(1,0)
 global.points = 0
