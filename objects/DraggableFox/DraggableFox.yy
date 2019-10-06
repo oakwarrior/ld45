@@ -1,5 +1,5 @@
 {
-    "id": "91b12f7c-e138-487e-933b-7135c47a4c63",
+    "id": "71b8f347-3fdc-4268-99c4-3785f6138b3c",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "DraggableFox",
@@ -9,7 +9,7 @@
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
         {
-            "id": "08a736e7-3034-476e-a329-4612969a9bd5",
+            "id": "12f71a10-0c5c-4e2c-bb05-a83aa71f7789",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "1eb4dae7-f7e4-4c4f-9aa9-026c3b319cf4",
@@ -31,28 +31,28 @@
     "physicsShape": 1,
     "physicsShapePoints": [
         {
-            "id": "907cad1c-b061-4069-9dfa-ad68cc15b8cb",
+            "id": "478d4c44-6f8d-4341-aba7-566a84e5ae73",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 0,
             "y": 0
         },
         {
-            "id": "b14d9260-5bb8-4817-9817-c8a6291e6191",
+            "id": "64fef75a-04ae-47f4-a7dc-558d446b960b",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 32,
             "y": 0
         },
         {
-            "id": "3e162ca3-c93d-41ee-a387-c3e9ebf4a65a",
+            "id": "37902a85-9f6a-4a8f-9e10-ff1d3d28f4a2",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 32,
             "y": 32
         },
         {
-            "id": "63b65f3d-3eaa-4363-a2fb-db0724ee83a1",
+            "id": "1e57f0b7-cfce-42cd-9a56-962ecbccc0f8",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 0,
@@ -62,6 +62,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "f3db7c12-10d8-42d6-96d7-fb393b63d750",
+    "spriteId": "8e2d59a6-aaa2-49c3-a11d-ab9ed3509aee",
     "visible": true
 }

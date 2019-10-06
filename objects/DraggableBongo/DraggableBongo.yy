@@ -1,5 +1,5 @@
 {
-    "id": "2edc02dc-9c71-4b90-a6f8-bd92dc852c09",
+    "id": "f3ce7f6e-a778-49b5-9839-2d06543f4222",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "DraggableBongo",
@@ -9,7 +9,7 @@
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
         {
-            "id": "f10a9f24-b08f-4dea-b008-571a9447a694",
+            "id": "fec97731-06fa-44b7-a3f7-2720ef540422",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "1eb4dae7-f7e4-4c4f-9aa9-026c3b319cf4",
@@ -31,28 +31,28 @@
     "physicsShape": 1,
     "physicsShapePoints": [
         {
-            "id": "f0b2b619-e928-457a-8344-6c9333ba260b",
+            "id": "f5546312-baaf-4c0b-82cb-7856cd1250ca",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 0,
             "y": 0
         },
         {
-            "id": "158c7322-d77b-40e1-b98f-bc2f0966f861",
+            "id": "47e44b67-a067-4998-a781-bf6b316f7f49",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 32,
             "y": 0
         },
         {
-            "id": "3eb50b49-eb5b-4498-adfd-429777a91ae6",
+            "id": "9b42dfef-5898-49df-8611-35bfe9e26701",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 32,
             "y": 32
         },
         {
-            "id": "addbfb9f-5439-42ea-8b1a-26b8fd51148a",
+            "id": "e85f1e55-0ee7-4ece-af33-bc6446828b92",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 0,

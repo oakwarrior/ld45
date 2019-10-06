@@ -1,3 +1,2 @@
-visible = false;
-
+visible = false
 global.memes = true;

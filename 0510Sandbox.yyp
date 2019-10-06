@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "03fe5928-3417-4b42-9ea9-e562dd21e894",
+            "Value": {
+                "id": "5e1894e1-22ea-4ede-9b50-6ee811f8f962",
+                "resourcePath": "objects\\BongoGameObject\\BongoGameObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0416d18f-2f1d-407c-a7e0-c7e81303464a",
             "Value": {
                 "id": "4268a191-9e1f-4e05-8dfc-f20a1a596855",
@@ -335,6 +343,14 @@
             }
         },
         {
+            "Key": "36237f6c-ff78-49b7-b9f9-95c0b53baeb7",
+            "Value": {
+                "id": "be8f122f-20da-48f3-8a7d-3f92d982e339",
+                "resourcePath": "objects\\Memes\\Memes.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3a5d34d9-a65e-48b7-959f-9814b2032dec",
             "Value": {
                 "id": "4b8a0269-5962-4a46-8ce6-e7b1fbae27ad",
@@ -347,6 +363,14 @@
             "Value": {
                 "id": "ee2550bd-9324-4137-b423-5cd22db41d5b",
                 "resourcePath": "objects\/DraggablePoint\/DraggablePoint.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3b056079-7c9a-447b-9c2d-9564133f4a1d",
+            "Value": {
+                "id": "3c9b6032-609a-442c-832b-a555ce74ca36",
+                "resourcePath": "objects\\FoxGameObject\\FoxGameObject.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -436,6 +460,14 @@
                 "id": "b4e214d7-59e3-46bd-8893-b089c9a1d0f9",
                 "resourcePath": "scripts\/@instance_create\/instance_create.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "4c3255a0-7fcd-4f32-b455-8ad295048853",
+            "Value": {
+                "id": "98a68d29-ce93-4565-b180-00349a02b23b",
+                "resourcePath": "sprites\\memes_sprite\\memes_sprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -639,6 +671,14 @@
             }
         },
         {
+            "Key": "71b8f347-3fdc-4268-99c4-3785f6138b3c",
+            "Value": {
+                "id": "eafdf1a8-e59e-4e2b-a5a0-b13c59282e5f",
+                "resourcePath": "objects\\DraggableFox\\DraggableFox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "71d7f311-4a3b-4d06-9e1a-f45fdee66a01",
             "Value": {
                 "id": "9d6905bc-face-43c9-8935-cf101c2f1c23",
@@ -827,6 +867,14 @@
             "Value": {
                 "id": "561e861d-be77-486f-bd3d-abb75c04c69d",
                 "resourcePath": "sprites\/Dog1\/Dog1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8e2d59a6-aaa2-49c3-a11d-ab9ed3509aee",
+            "Value": {
+                "id": "c391c617-3252-4359-a769-7ee5aa2a1ba1",
+                "resourcePath": "sprites\\foxen_0\\foxen_0.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1135,6 +1183,14 @@
             }
         },
         {
+            "Key": "d2057613-3c67-4325-af24-1f0e2ebe7ff3",
+            "Value": {
+                "id": "e450f146-4fc4-430e-9bb7-39cc6f5d6709",
+                "resourcePath": "objects\\DraggableMemes\\DraggableMemes.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d5a5bd78-a0e1-456f-a967-bae4f3f6a967",
             "Value": {
                 "id": "04e0f035-8191-4ee5-950d-bcf1bc9150f1",
@@ -1327,19 +1383,19 @@
             }
         },
         {
+            "Key": "f3ce7f6e-a778-49b5-9839-2d06543f4222",
+            "Value": {
+                "id": "2946a07d-9174-40fe-9f70-61723c9618e0",
+                "resourcePath": "objects\\DraggableBongo\\DraggableBongo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f3d516fe-a2ad-48f7-acc3-153f341d66d7",
             "Value": {
                 "id": "cce8635a-baec-4bf2-87ea-2f8677b97349",
                 "resourcePath": "objects\/oGameObjectParent\/oGameObjectParent.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
-            "Value": {
-                "id": "55f32e74-91a5-4397-8e37-da455b2854ac",
-                "resourcePath": "options\/mac\/options_mac.yy",
-                "resourceType": "GMMacOptions"
             }
         },
         {

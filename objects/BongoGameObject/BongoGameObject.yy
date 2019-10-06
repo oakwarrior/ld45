@@ -1,28 +1,38 @@
 {
-    "id": "e62de259-5fb0-42f8-8804-30899d82e280",
+    "id": "03fe5928-3417-4b42-9ea9-e562dd21e894",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "BongoGameObject",
     "eventList": [
         {
-            "id": "7361da80-98dd-4e59-8752-a538419110fc",
+            "id": "7e32de99-1258-4f16-8a06-1f815266c9a3",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "03fe5928-3417-4b42-9ea9-e562dd21e894"
+        },
+        {
+            "id": "8a5ecec0-fe63-4450-91e8-3100a197d83e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "e62de259-5fb0-42f8-8804-30899d82e280"
+            "m_owner": "03fe5928-3417-4b42-9ea9-e562dd21e894"
         },
         {
-            "id": "aad8422e-d27c-4a64-a9be-2a58aaea0ba9",
+            "id": "999e5090-e11e-46f9-a461-126d533be1c4",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "e8a6ac7c-a66a-4a9f-b97d-5d8444368d4c",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "e62de259-5fb0-42f8-8804-30899d82e280"
+            "m_owner": "03fe5928-3417-4b42-9ea9-e562dd21e894"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -41,28 +51,28 @@
     "physicsShape": 1,
     "physicsShapePoints": [
         {
-            "id": "fa51caed-a54b-4d11-ae34-2c0b912b3a64",
+            "id": "295f8b7c-a5e1-4ec2-9b95-539fef1c900d",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 0,
             "y": 0
         },
         {
-            "id": "4b09fff4-dc1c-4c84-a48b-7dec7c304684",
+            "id": "fee56a91-debb-4240-95bf-e9ce93b5a960",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 32,
             "y": 0
         },
         {
-            "id": "950a16dc-d42f-4162-8c37-06672d1eb3e1",
+            "id": "974b0563-9569-46b9-9a4f-22e8aed5f825",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 32,
             "y": 32
         },
         {
-            "id": "129c1a94-025a-49af-9658-b8d40997aa37",
+            "id": "7de55d5b-6e1d-401e-bb3f-288ab85b787a",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 0,
