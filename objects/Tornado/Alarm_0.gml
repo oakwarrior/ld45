@@ -1,6 +1,7 @@
 
 
 visible = false
+global.tornado = true;
 
 var layerid = layer_get_id("GameObjects");
 var layer_elements = layer_get_all_elements(layerid);

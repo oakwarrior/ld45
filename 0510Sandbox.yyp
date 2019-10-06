@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "08cc1e8d-1717-4e45-9e28-64cfd29df102",
+            "Value": {
+                "id": "a4868a24-2443-43dc-8115-e7cbe4d9f48f",
+                "resourcePath": "sprites\\memes_sprite\\memes_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0badaac3-3c2b-4e5d-a933-c00fc93c9564",
             "Value": {
                 "id": "20f2ab98-228a-4f04-aae2-13f3f74dc46f",
@@ -287,6 +295,14 @@
             }
         },
         {
+            "Key": "2edc02dc-9c71-4b90-a6f8-bd92dc852c09",
+            "Value": {
+                "id": "00c11ef3-2aa0-4ca5-894b-2f51226e3bdb",
+                "resourcePath": "objects\\DraggableBongo\\DraggableBongo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2fc7fe5c-9e2a-4439-ba04-d5a916d1884b",
             "Value": {
                 "id": "33293778-d74d-4770-a7d7-47dcda10a9d8",
@@ -323,6 +339,14 @@
             "Value": {
                 "id": "8655389c-1f76-40c1-adcd-6c74e27f73ac",
                 "resourcePath": "objects\\DraggableCat1\\DraggableCat1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "36237f6c-ff78-49b7-b9f9-95c0b53baeb7",
+            "Value": {
+                "id": "c45c321d-d8e7-4f8d-ac29-1c96275a5b43",
+                "resourcePath": "objects\\Memes\\Memes.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -531,6 +555,14 @@
             "Value": {
                 "id": "b7525ddd-78ba-4781-b7c9-69207bdb7ce8",
                 "resourcePath": "objects\\oEnemy\\oEnemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5fc8b485-d87a-4839-b6a4-e09583862313",
+            "Value": {
+                "id": "01d8b2ec-d464-4572-8d13-fb7487a75a4b",
+                "resourcePath": "objects\\FoxGameObject\\FoxGameObject.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -831,6 +863,14 @@
             }
         },
         {
+            "Key": "91b12f7c-e138-487e-933b-7135c47a4c63",
+            "Value": {
+                "id": "b9736cbd-4410-43fa-a370-0bd71c35a742",
+                "resourcePath": "objects\\DraggableFox\\DraggableFox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9425d230-db2a-423f-a39a-430159ddbf91",
             "Value": {
                 "id": "574e0b53-06d4-4016-b0f3-6eac7c89fbab",
@@ -1111,6 +1151,14 @@
             }
         },
         {
+            "Key": "d2057613-3c67-4325-af24-1f0e2ebe7ff3",
+            "Value": {
+                "id": "d9dd47e1-dbbc-4ea5-a2cb-ed9914b0b0cc",
+                "resourcePath": "objects\\DraggableMemes\\DraggableMemes.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d5a5bd78-a0e1-456f-a967-bae4f3f6a967",
             "Value": {
                 "id": "04e0f035-8191-4ee5-950d-bcf1bc9150f1",
@@ -1239,6 +1287,14 @@
             }
         },
         {
+            "Key": "e62de259-5fb0-42f8-8804-30899d82e280",
+            "Value": {
+                "id": "1fe168e5-df19-4c3a-b272-144c91aa40ee",
+                "resourcePath": "objects\\BongoGameObject\\BongoGameObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e8a6ac7c-a66a-4a9f-b97d-5d8444368d4c",
             "Value": {
                 "id": "f43f1e4e-b7fa-4b9e-9ce5-6dd12b0f4c68",
@@ -1300,6 +1356,14 @@
                 "id": "cce8635a-baec-4bf2-87ea-2f8677b97349",
                 "resourcePath": "objects\\oGameObjectParent\\oGameObjectParent.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f3db7c12-10d8-42d6-96d7-fb393b63d750",
+            "Value": {
+                "id": "c69427bb-6753-48fe-bd4c-4521d7490335",
+                "resourcePath": "sprites\\foxen_0\\foxen_0.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
