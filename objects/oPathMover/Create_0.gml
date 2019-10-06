@@ -1,3 +1,8 @@
+//event_inherited();
+obj_enemy = true
+show_debug_message("id " + string(id))
+tornado_blocker = true
+ui_template_var2 = true
 xp = x;
 yp = y;
 hp = global.hitPoints;
@@ -6,7 +11,7 @@ vy = 0;
 
 cx = 0;
 cy = 0;
-if oSpawn.spawn_amount > 1
+if global.spawn_amount > 1
 {
 Once = false
 }
@@ -18,6 +23,7 @@ Once = true
 reverse = false; 
 
 path = pTest0
+//pTest0
 
 // Starting pos
 pPos = 0;

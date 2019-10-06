@@ -5,7 +5,25 @@ global.memes = false;
 global.tornado = false;
 global.gravityvar = 10;
 global.funvar = 1;
-
+if instance_exists(oPathMover)
+{
+with (oPathMover)
+{
+if path_get_number(path) > 0
+{
+for (var b = 1 ; b < path_get_number(path) ; b++)
+{
+path_delete_point(path,b)
+}
+}
+path_clear_points(path)
+path_add_point(path,0,0,1)
+path_add_point(path,11,45,1)
+}
+}
+path_clear_points(pTest0)
+path_add_point(pTest0,0,0,1)
+path_add_point(pTest0,11,45,1)
 var i;
 for (i = 0; i < instance_count; i += 1;)
    {
@@ -33,7 +51,8 @@ for (i = 0; i < instance_count; i += 1;)
 		}
 	}
    }
- 
+
+oGame.CanCreate = true 
 global.startedPlaying = false 
 global.goalMeta = false
 global.goalLife = false
