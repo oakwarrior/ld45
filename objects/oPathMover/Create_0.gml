@@ -1,20 +1,28 @@
 xp = x;
 yp = y;
-
+hp = global.hitPoints;
 vx = 0;
 vy = 0;
 
 cx = 0;
 cy = 0;
-
+if oSpawn.spawn_amount > 1
+{
+Once = false
+}
+else
+{
+Once = true	
+}
 // Whether or not to reverse at the end of path
-reverse = true; 
-path    = pTest0;
+reverse = false; 
+
+path = pTest0
 
 // Starting pos
 pPos = 0;
 // Path speed
-pSpd = 4.0;
+pSpd = 1
 // Forward or reverse
 pDir = 1.0;
 // Currently moving

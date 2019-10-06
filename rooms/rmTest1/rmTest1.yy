@@ -2,7 +2,7 @@
 {
     "name": "rmTest1",
     "id": "a00d1076-09b4-45b5-803a-6ed2414ca016",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
@@ -105,8 +105,7 @@
         "181e3a08-4d5f-468f-9dc3-853f949cae2b",
         "d8816842-c7b8-4c6b-8143-fb062ffb1fb2",
         "b46dad2e-7a4b-49e5-bf58-f8a51c4e5586",
-        "2dcd708b-b284-4543-adea-cde2dc343a9b",
-        "faeddc91-58c8-46d9-b714-050d3dd04fe9"
+        "2dcd708b-b284-4543-adea-cde2dc343a9b"
     ],
     "IsDnD": false,
     "layers": [
@@ -273,7 +272,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_CAC64112","id": "faeddc91-58c8-46d9-b714-050d3dd04fe9","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_CAC64112.gml","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_CAC64112","objId": "bc922529-553a-4a1c-9003-9368faf3ed97","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 300,"y": 300}
+
             ],
             "layers": [
 

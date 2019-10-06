@@ -1,4 +1,6 @@
 // Update
+if Once = false
+{
 if (pMov) {
     var xp = path_get_x(path, pPos);
     var yp = path_get_y(path, pPos);
@@ -85,3 +87,4 @@ repeat(abs(vxNew)) {
     }
 }
 
+}
