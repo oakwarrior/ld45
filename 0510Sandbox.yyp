@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "0aed455d-6a42-4980-8838-40e24ec6f51d",
+            "Value": {
+                "id": "539b2115-6348-4b21-bf6b-8dce5ddf9d63",
+                "resourcePath": "objects\\lifeArrowUp1\\lifeArrowUp1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0badaac3-3c2b-4e5d-a933-c00fc93c9564",
             "Value": {
                 "id": "20f2ab98-228a-4f04-aae2-13f3f74dc46f",
@@ -187,6 +195,14 @@
             "Value": {
                 "id": "96b2e404-1901-4c36-b897-0d86c5b676c7",
                 "resourcePath": "objects\/oSpawn\/oSpawn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "159de648-63f6-48de-baca-0cb1369f92e3",
+            "Value": {
+                "id": "ed25726c-ccd4-47ea-8288-eec8d40c824b",
+                "resourcePath": "objects\\emptyObject\\emptyObject.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -452,6 +468,14 @@
                 "id": "db3ae595-0021-4bb2-be42-a0d939f1862f",
                 "resourcePath": "views\/3b8bd60d-c0b6-4289-9bfd-10468a66d3bb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3bf0f1b3-5c17-42a4-8717-0560a838a3e4",
+            "Value": {
+                "id": "2a505529-0937-4781-98e7-c37f60276807",
+                "resourcePath": "objects\\DraggableTower3\\DraggableTower3.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -791,6 +815,14 @@
             }
         },
         {
+            "Key": "6a625f0f-f768-4401-9527-e9f89494c74e",
+            "Value": {
+                "id": "0e6d0437-1d36-4f82-b061-0b5a1aa45701",
+                "resourcePath": "objects\\DraggableDelete\\DraggableDelete.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6b600100-5e46-45ef-923c-ca43c7ccaa4b",
             "Value": {
                 "id": "db4e9c27-3299-4677-af04-903dfe7e9c35",
@@ -1087,6 +1119,22 @@
             }
         },
         {
+            "Key": "8feca8eb-601f-47dc-bd8d-37afe2f1a8a2",
+            "Value": {
+                "id": "c2509b2b-ee1a-42e5-8ef6-b7ed25a5550e",
+                "resourcePath": "sprites\\sDelete\\sDelete.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "91586e2a-c6c9-4590-9479-b63d78f91ab8",
+            "Value": {
+                "id": "5d1cc5e9-acf1-4c9e-95dd-5323ca7d8eb6",
+                "resourcePath": "objects\\hpArrowUp\\hpArrowUp.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "91916860-5a92-4e7e-b655-5110c469f883",
             "Value": {
                 "id": "1aee9f1f-d99f-434e-97a1-47978e8ae15b",
@@ -1159,6 +1207,14 @@
             }
         },
         {
+            "Key": "9dc82b67-63aa-412f-a785-2449d64cafe8",
+            "Value": {
+                "id": "41707045-2198-41f5-a725-72c917d01acb",
+                "resourcePath": "objects\\hpArrowDown\\hpArrowDown.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9dcf4c2e-1c1a-4a3b-91d9-81ed503844dd",
             "Value": {
                 "id": "97314482-df5e-4949-8ec5-18f90b415cbe",
@@ -1199,11 +1255,27 @@
             }
         },
         {
+            "Key": "a199b2b4-08f0-4514-9e0e-3af96fb5cf46",
+            "Value": {
+                "id": "e7a1f557-fe48-4cd9-a3de-80209db45701",
+                "resourcePath": "objects\\lifeArrowDown1\\lifeArrowDown1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a1f2b800-f1bc-4504-8d35-b9c9faf4134d",
             "Value": {
                 "id": "ae9ab452-97d0-4246-8686-c1a3e1e31272",
                 "resourcePath": "sprites\/Dog2\/Dog2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a33f951f-e5d1-42fb-80b5-5b621ea9c221",
+            "Value": {
+                "id": "07bf8606-62d0-495e-95aa-f9e338ea3786",
+                "resourcePath": "objects\\hordeSpecs\\hordeSpecs.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1711,14 +1783,6 @@
             }
         },
         {
-            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
-            "Value": {
-                "id": "0a8d90ed-98c9-4c34-a212-b90d1b56ddc8",
-                "resourcePath": "options\/mac\/options_mac.yy",
-                "resourceType": "GMMacOptions"
-            }
-        },
-        {
             "Key": "f57d968c-76d5-455a-9b0f-0032cb1637c3",
             "Value": {
                 "id": "a346da30-2306-4395-ab64-fe8d25dc9939",
@@ -1780,6 +1844,14 @@
                 "id": "ae5d3f82-55f0-4530-84c3-239cdd5a0a75",
                 "resourcePath": "views\/ff885a87-a5b7-4481-b218-a0660d793779.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fff02db3-5cd0-4c9e-b3a2-81ff198cb436",
+            "Value": {
+                "id": "706710c1-c145-4c92-8d33-4a928b579e0d",
+                "resourcePath": "objects\\DraggableTower2\\DraggableTower2.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
