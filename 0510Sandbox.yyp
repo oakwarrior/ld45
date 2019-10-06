@@ -583,6 +583,14 @@
             }
         },
         {
+            "Key": "690adf10-943d-4d98-b2b6-23133cf85be9",
+            "Value": {
+                "id": "12e8fb35-f99f-41b7-ab26-8393525914bf",
+                "resourcePath": "objects\\goals_title\\goals_title.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "690cc137-34c0-4adf-9322-f518576a902d",
             "Value": {
                 "id": "3fc2ad40-e441-4146-b292-908a13647039",

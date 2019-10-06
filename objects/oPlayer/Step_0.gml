@@ -143,6 +143,8 @@ if (!onGround) {
 
 /// @description Insert description here
 // You can write your code in this editor
+if global.startedPlaying = true
+{
 for (var k = 0 ; k < ds_grid_height(global.enemyTable) ; k++)
 {
 if place_meeting(x-4,y,ds_grid_get(global.enemyTable,0,k))
@@ -157,6 +159,7 @@ if global.goalLife = true
 global.livesQty -=1	
 }
 instance_destroy()
+}
 }
 }
 }
