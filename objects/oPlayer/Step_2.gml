@@ -2,7 +2,7 @@
 //event_inherited();
 //begginning of inheiort
 // Handle sub-pixel movement
-if draggable = false and x > 30 and x < 580 and y > 120 and y <510 {
+if draggable = false and x > 15 and x < 560 and y > 120 and y <515 {
 cx += vx;
 cy += vy;
 vxNew = round(cx);

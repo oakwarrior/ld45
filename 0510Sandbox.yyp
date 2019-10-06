@@ -815,6 +815,14 @@
             }
         },
         {
+            "Key": "69a6ba0d-7a59-49a4-896b-a413d09d8a45",
+            "Value": {
+                "id": "8ac84852-0498-49ce-8f8c-1e17b6268f34",
+                "resourcePath": "objects\\td_title\\td_title.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "69c9cec3-4109-4496-a251-f2bc8e74e43e",
             "Value": {
                 "id": "440550a8-d73b-43d7-b98b-f9a1978df505",
@@ -1515,6 +1523,14 @@
             "Value": {
                 "id": "4b1f1e32-56ff-4abb-bc48-931b801b3bd5",
                 "resourcePath": "objects\/oGame\/oGame.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d189b0ef-c3dc-4045-a0f6-8f61e264acd2",
+            "Value": {
+                "id": "b0ee1927-ae90-455c-a959-b5d7ef3d8b5a",
+                "resourcePath": "objects\\Grid\\Grid.yy",
                 "resourceType": "GMObject"
             }
         },

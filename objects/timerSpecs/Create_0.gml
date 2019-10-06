@@ -4,5 +4,5 @@ global.timer = 10
 global.goalTime = true
 draw2 = false
 ui_template_var2 = true
-instance_create(40+ string_width("TIMER: ")*0.3 +string_width("100 ")*0.3,140,timerArrowUp)
-instance_create(40+ string_width("TIMER: ")*0.3 +string_width("100 ")*0.3,140,timerArrowDown)
+instance_create(25+ string_width("TIMER: ")*0.3 +string_width("100 ")*0.3,155,timerArrowUp)
+instance_create(25+ string_width("TIMER: ")*0.3 +string_width("100 ")*0.3,155,timerArrowDown)

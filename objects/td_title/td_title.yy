@@ -1,38 +1,18 @@
 {
-    "id": "0416d18f-2f1d-407c-a7e0-c7e81303464a",
+    "id": "69a6ba0d-7a59-49a4-896b-a413d09d8a45",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "red_tempalte",
+    "name": "td_title",
     "eventList": [
         {
-            "id": "eea95916-1d68-42b1-a7a3-af994ed328f4",
+            "id": "49f1bab7-80a4-4100-900f-a4b2d1542938",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
+            "enumb": 64,
             "eventtype": 8,
-            "m_owner": "0416d18f-2f1d-407c-a7e0-c7e81303464a"
-        },
-        {
-            "id": "75c2742c-85a6-48f6-89a6-bb72d47fb925",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "0416d18f-2f1d-407c-a7e0-c7e81303464a"
-        },
-        {
-            "id": "d7999787-e80d-45f3-8351-5a7d858fde06",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "0416d18f-2f1d-407c-a7e0-c7e81303464a"
+            "m_owner": "69a6ba0d-7a59-49a4-896b-a413d09d8a45"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

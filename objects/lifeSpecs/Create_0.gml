@@ -4,5 +4,5 @@ global.goalLife = true
 global.livesQty = 1
 draw5 = false
 ui_template_var2 = true
-instance_create(565,140,lifeArrowUp)
-instance_create(565,140,lifeArrowDown)
+instance_create(545,155,lifeArrowUp)
+instance_create(545,155,lifeArrowDown)

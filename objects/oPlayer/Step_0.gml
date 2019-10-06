@@ -2,7 +2,7 @@
 
 // Input //////////////////////////////////////////////////////////////////////
 event_inherited()
-if draggable = false and x > 30 and x < 680 and y > 120 and y <620 {
+if draggable = false and x > 15 and x < 560 and y > 120 and y <515 {
 var kLeft, kRight, kUp, kDown, kJump, kJumpRelease;
 
 kLeft        = keyboard_check(vk_left)           || gamepad_axis_value(0, gp_axislh) < -0.40;
@@ -109,7 +109,7 @@ if (kJump && cLeft && !onGround) {
 // Jump 
 if (kJump) {
     // THIS LINE HAS BEEN EDITED TO ALLOW FOR MULTI JUMPS 
-    if (1) {//onGround) {
+    if (onGround) {
         // Fall thru platform
         if (kDown) && (place_meeting(x, y + 1, oParJumpThru) && !place_meeting(x, y + 1, oParSolid)) {
                 ++y;
@@ -118,7 +118,7 @@ if (kJump) {
             xscale = 0.5;
             yscale = 1.5;
             
-            for (var i = 0; i < 4; i++)
+            for (var i = 0; i < 2; i++)
                 instance_create(random_range(bbox_left, bbox_right), bbox_bottom, oFxDust);
             
             vy = -jumpHeight;
