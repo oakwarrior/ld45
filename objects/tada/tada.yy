@@ -1,28 +1,38 @@
 {
-    "id": "db4a1ac8-d693-4242-9c6a-d281c5d0413c",
+    "id": "36f3a94c-4fd3-4cf4-999b-1ca316b3057f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Fun",
+    "name": "tada",
     "eventList": [
         {
-            "id": "a1766a8b-bd46-441f-918b-f586d4ba2aa3",
+            "id": "29f3ad29-6757-423e-a2a5-9f47b3192361",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "36f3a94c-4fd3-4cf4-999b-1ca316b3057f"
+        },
+        {
+            "id": "f601bff8-5238-4fc5-a39e-84266f22aa86",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "db4a1ac8-d693-4242-9c6a-d281c5d0413c"
+            "m_owner": "36f3a94c-4fd3-4cf4-999b-1ca316b3057f"
         },
         {
-            "id": "26bc4025-65b4-428a-b911-9f5869bf8622",
+            "id": "0bd196c2-b916-499b-a531-6b9d1a80d842",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 2,
-            "m_owner": "db4a1ac8-d693-4242-9c6a-d281c5d0413c"
+            "m_owner": "36f3a94c-4fd3-4cf4-999b-1ca316b3057f"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -39,40 +49,11 @@
     "physicsRestitution": 0.1,
     "physicsSensor": false,
     "physicsShape": 1,
-    "physicsShapePoints": [
-        {
-            "id": "49e55a7b-79a0-44e9-80f3-9a996c068f8f",
-            "modelName": "GMPoint",
-            "mvc": "1.0",
-            "x": 0,
-            "y": 0
-        },
-        {
-            "id": "46e39249-83b9-4fc3-ac9a-79bd47916ecd",
-            "modelName": "GMPoint",
-            "mvc": "1.0",
-            "x": 32,
-            "y": 0
-        },
-        {
-            "id": "a063b72a-e1ff-4e12-84a5-e7353670a55a",
-            "modelName": "GMPoint",
-            "mvc": "1.0",
-            "x": 32,
-            "y": 32
-        },
-        {
-            "id": "745dd3df-3eb5-4f11-85c6-9bb81621bc54",
-            "modelName": "GMPoint",
-            "mvc": "1.0",
-            "x": 0,
-            "y": 32
-        }
-    ],
+    "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "e608bcf6-fe6e-4167-b6a2-573d17cbf9ae",
+            "id": "1c08722a-58bf-4374-83b5-2bbffbdd8e28",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -81,12 +62,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "tada",
-            "varName": "tada_object",
-            "varType": 5
+            "value": "0",
+            "varName": "parent",
+            "varType": 1
         }
     ],
     "solid": false,
-    "spriteId": "dd0c8278-8bd9-42b3-a8e0-824033052c24",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

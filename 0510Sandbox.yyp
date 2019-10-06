@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "36f3a94c-4fd3-4cf4-999b-1ca316b3057f",
+            "Value": {
+                "id": "98cbf53a-2f01-490c-a082-b6522db236af",
+                "resourcePath": "objects\\tada\\tada.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3a5d34d9-a65e-48b7-959f-9814b2032dec",
             "Value": {
                 "id": "4b8a0269-5962-4a46-8ce6-e7b1fbae27ad",
