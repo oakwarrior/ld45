@@ -1,4 +1,4 @@
-global.funvar += 1.5;
+global.funvar += 0.5;
 
 visible = false
 
