@@ -41,7 +41,10 @@ if global.timer <=0 and instance_exists(oMeta) and oMeta.draw != true
 or global.timer <=0 and  !instance_exists(oMeta) and global.goalMeta = true
 or global.timer <=0 and  !instance_exists(oMeta) and global.goalMeta = false
 {
+	if instance_exists(timerSpecs)
+	{
 timerSpecs.draw2 = true	
+	}
 var i;
 for (i = 0; i < instance_count; i += 1;)
    {
@@ -68,7 +71,10 @@ if global.livesQty <=0 and instance_exists(oMeta) and oMeta.draw != true
 or global.livesQty <=0 and  !instance_exists(oMeta) and global.goalMeta = true
 or global.livesQty <=0 and  !instance_exists(oMeta) and global.goalMeta = false
 {
+	if instance_exists(lifeSpecs)
+	{
 lifeSpecs.draw5 = true	
+	}
 var i;
 for (i = 0; i < instance_count; i += 1;)
    {
@@ -93,7 +99,10 @@ if global.startedPlaying = true
 {
 if  !instance_exists(oMeta) and global.goalMeta = true
 {
+if instance_exists(victoryMeta)
+{
 victoryMeta.draw = true	
+}
 var i;
 for (i = 0; i < instance_count; i += 1;)
    {

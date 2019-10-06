@@ -1,4 +1,5 @@
 //event_inherited();
+obj_enemy = true
 show_debug_message("id " + string(id))
 tornado_blocker = true
 ui_template_var2 = true
