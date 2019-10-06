@@ -1319,6 +1319,14 @@
             }
         },
         {
+            "Key": "c265e3ef-002b-44ae-97fd-0813def80537",
+            "Value": {
+                "id": "acac041e-0258-44a6-9cb6-4472b4d37958",
+                "resourcePath": "scripts\\scriptDrawGrid\\scriptDrawGrid.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "c431630f-219e-422f-a87a-6370e2d3c06e",
             "Value": {
                 "id": "bff1e27d-28ad-4a67-a04c-18c9532fcf10",
@@ -1716,7 +1724,8 @@
         "9425d230-db2a-423f-a39a-430159ddbf91",
         "acc3f7e3-fd66-476c-b6e9-a6a00be1d865",
         "8fe511e5-2e5b-48db-8dd9-6316cdeb7963",
-        "c431630f-219e-422f-a87a-6370e2d3c06e"
+        "c431630f-219e-422f-a87a-6370e2d3c06e",
+        "c265e3ef-002b-44ae-97fd-0813def80537"
     ],
     "tutorial": ""
 }
