@@ -14,7 +14,10 @@
         "18780a6b-a87f-48f8-8b6a-ddc13b942144",
         "e6c37c93-941b-41c3-8d87-b1466cfeb9c4",
         "a1f2b800-f1bc-4504-8d35-b9c9faf4134d",
-        "b2957fe7-1164-4b90-9f5e-ba7b3fff72dd"
+        "b2957fe7-1164-4b90-9f5e-ba7b3fff72dd",
+        "d21d61f5-9a36-4f60-badf-eee6460f0377",
+        "6910f27b-11f8-4cb7-be59-375176638225",
+        "42f3c1e0-916c-4c82-a104-650aeb1eea4d"
     ],
     "filterType": "GMSprite",
     "folderName": "UnunsedSprites",

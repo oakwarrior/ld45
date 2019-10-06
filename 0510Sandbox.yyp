@@ -519,6 +519,14 @@
             }
         },
         {
+            "Key": "42f3c1e0-916c-4c82-a104-650aeb1eea4d",
+            "Value": {
+                "id": "3dfc9fd6-0f7b-4b66-aed6-9d5a8197c248",
+                "resourcePath": "sprites\/Tower3\/Tower3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "44216eb0-dda1-4a13-abeb-1f63fd514b1b",
             "Value": {
                 "id": "3e7685ad-6797-4e67-8aa9-327450192d01",
@@ -772,6 +780,14 @@
                 "id": "3fc2ad40-e441-4146-b292-908a13647039",
                 "resourcePath": "rooms\/gravity_test\/gravity_test.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "6910f27b-11f8-4cb7-be59-375176638225",
+            "Value": {
+                "id": "051501ff-0c9b-4a27-99b1-612a263014ec",
+                "resourcePath": "sprites\/Tower2\/Tower2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1444,6 +1460,14 @@
                 "id": "e450f146-4fc4-430e-9bb7-39cc6f5d6709",
                 "resourcePath": "objects\/DraggableMemes\/DraggableMemes.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d21d61f5-9a36-4f60-badf-eee6460f0377",
+            "Value": {
+                "id": "fd90f121-10da-4ae5-957b-3b4cd96fb206",
+                "resourcePath": "sprites\/Tower1\/Tower1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
