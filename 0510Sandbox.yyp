@@ -1551,14 +1551,6 @@
             }
         },
         {
-            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
-            "Value": {
-                "id": "131a0643-4d23-4e92-ae78-65e5a5839014",
-                "resourcePath": "options\/mac\/options_mac.yy",
-                "resourceType": "GMMacOptions"
-            }
-        },
-        {
             "Key": "f57d968c-76d5-455a-9b0f-0032cb1637c3",
             "Value": {
                 "id": "a346da30-2306-4395-ab64-fe8d25dc9939",
