@@ -50,7 +50,7 @@
             "Key": "0166e8f5-1af8-4868-afa5-36ed07816374",
             "Value": {
                 "id": "a1428b56-7d5e-4078-9b72-836e7e5f620e",
-                "resourcePath": "objects\\pointSpecs\\pointSpecs.yy",
+                "resourcePath": "objects\/pointSpecs\/pointSpecs.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -58,7 +58,7 @@
             "Key": "02cd5253-f19b-4dfb-86b8-83350453ebc4",
             "Value": {
                 "id": "c6ebd50f-5381-4d94-a10c-5463bc35f487",
-                "resourcePath": "sprites\\foxen_wimdy\\foxen_wimdy.yy",
+                "resourcePath": "sprites\/foxen_wimdy\/foxen_wimdy.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -66,7 +66,7 @@
             "Key": "02e006b7-8d47-41e5-bf63-32414be2829c",
             "Value": {
                 "id": "9af8bf7a-4b8a-404e-a664-7eb45be55e7c",
-                "resourcePath": "objects\\DraggableControl\\DraggableControl.yy",
+                "resourcePath": "objects\/DraggableControl\/DraggableControl.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -98,7 +98,7 @@
             "Key": "06daa7ca-65f8-4344-b075-cbe5c7b1fffd",
             "Value": {
                 "id": "e48b1ee5-31e4-4596-994e-bbe558ece5a9",
-                "resourcePath": "objects\\timerArrowDown\\timerArrowDown.yy",
+                "resourcePath": "objects\/timerArrowDown\/timerArrowDown.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -107,14 +107,6 @@
             "Value": {
                 "id": "d4ecb7d5-8182-4712-b9d1-04e0164bdb69",
                 "resourcePath": "sprites\/sRail2\/sRail2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "08cc1e8d-1717-4e45-9e28-64cfd29df102",
-            "Value": {
-                "id": "a4868a24-2443-43dc-8115-e7cbe4d9f48f",
-                "resourcePath": "sprites\\memes_sprite\\memes_sprite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -138,7 +130,7 @@
             "Key": "13578d67-83c8-4d33-b21c-2e87d2e65689",
             "Value": {
                 "id": "6d93d241-7310-47f0-bb72-49d247841cb0",
-                "resourcePath": "sprites\\pongo_0\\pongo_0.yy",
+                "resourcePath": "sprites\/pongo_0\/pongo_0.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -146,7 +138,7 @@
             "Key": "14b6d8ff-29a9-4cd6-9db2-6ceb87ead6d0",
             "Value": {
                 "id": "46983b45-4695-431b-b984-20c2da92348d",
-                "resourcePath": "sprites\\Blinkot\\Blinkot.yy",
+                "resourcePath": "sprites\/Blinkot\/Blinkot.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -178,7 +170,7 @@
             "Key": "1a91cb35-ea9d-495e-bd0d-1e0a5ac3a144",
             "Value": {
                 "id": "98cce70b-609c-4442-8eaa-69a21e64e5bf",
-                "resourcePath": "sprites\\control_sprite\\control_sprite.yy",
+                "resourcePath": "sprites\/control_sprite\/control_sprite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -250,7 +242,7 @@
             "Key": "24ba3ad6-20e7-4ccc-89a1-460171409cf5",
             "Value": {
                 "id": "41c01a1c-111b-4f85-aa72-4d8ab6857c1b",
-                "resourcePath": "objects\\oTimer\\oTimer.yy",
+                "resourcePath": "objects\/oTimer\/oTimer.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -258,7 +250,7 @@
             "Key": "272709ff-c4a8-40d3-9be6-3442c4a4ccdf",
             "Value": {
                 "id": "abeaa48e-1bcf-4d7c-8c6d-6d2e66c0d327",
-                "resourcePath": "sprites\\spaceship_sprite\\spaceship_sprite.yy",
+                "resourcePath": "sprites\/spaceship_sprite\/spaceship_sprite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -282,7 +274,7 @@
             "Key": "2ad7d2d1-800b-43c7-8251-104b9f992408",
             "Value": {
                 "id": "5e6151e6-161c-4cf6-9dfd-74be9cacbd6d",
-                "resourcePath": "objects\\oPoint\\oPoint.yy",
+                "resourcePath": "objects\/oPoint\/oPoint.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -295,18 +287,10 @@
             }
         },
         {
-            "Key": "2edc02dc-9c71-4b90-a6f8-bd92dc852c09",
-            "Value": {
-                "id": "00c11ef3-2aa0-4ca5-894b-2f51226e3bdb",
-                "resourcePath": "objects\\DraggableBongo\\DraggableBongo.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "2fc7fe5c-9e2a-4439-ba04-d5a916d1884b",
             "Value": {
                 "id": "33293778-d74d-4770-a7d7-47dcda10a9d8",
-                "resourcePath": "objects\\BlinGameObject\\BlinGameObject.yy",
+                "resourcePath": "objects\/BlinGameObject\/BlinGameObject.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -314,7 +298,7 @@
             "Key": "318cd8c4-11ac-4c2a-a601-947f91a3ed85",
             "Value": {
                 "id": "adeb65d3-31d4-49aa-8a28-d6f6a2acf5c8",
-                "resourcePath": "objects\\timerSpecs\\timerSpecs.yy",
+                "resourcePath": "objects\/timerSpecs\/timerSpecs.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -322,7 +306,7 @@
             "Key": "328cc400-ee4e-4718-8098-9be6c8abbae4",
             "Value": {
                 "id": "78b36164-e884-4b65-90e4-8a6bc5c237c8",
-                "resourcePath": "objects\\DraggableSpaceship\\DraggableSpaceship.yy",
+                "resourcePath": "objects\/DraggableSpaceship\/DraggableSpaceship.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -335,18 +319,18 @@
             }
         },
         {
-            "Key": "35eeba72-d28b-49f3-b739-909ff0f76e5d",
+            "Key": "35ce874a-e89b-43b7-9dda-6cdba2c33fdc",
             "Value": {
-                "id": "8655389c-1f76-40c1-adcd-6c74e27f73ac",
-                "resourcePath": "objects\\DraggableCat1\\DraggableCat1.yy",
-                "resourceType": "GMObject"
+                "id": "975ab668-c4da-4199-9977-564a8ea8e224",
+                "resourcePath": "sprites\/Rubber_duck\/Rubber_duck.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
-            "Key": "36237f6c-ff78-49b7-b9f9-95c0b53baeb7",
+            "Key": "35eeba72-d28b-49f3-b739-909ff0f76e5d",
             "Value": {
-                "id": "c45c321d-d8e7-4f8d-ac29-1c96275a5b43",
-                "resourcePath": "objects\\Memes\\Memes.yy",
+                "id": "8655389c-1f76-40c1-adcd-6c74e27f73ac",
+                "resourcePath": "objects\/DraggableCat1\/DraggableCat1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -354,7 +338,7 @@
             "Key": "3a5d34d9-a65e-48b7-959f-9814b2032dec",
             "Value": {
                 "id": "4b8a0269-5962-4a46-8ce6-e7b1fbae27ad",
-                "resourcePath": "objects\\DraggableMeta\\DraggableMeta.yy",
+                "resourcePath": "objects\/DraggableMeta\/DraggableMeta.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -362,7 +346,7 @@
             "Key": "3aa27494-a7ad-484d-a233-ce0f24e10935",
             "Value": {
                 "id": "ee2550bd-9324-4137-b423-5cd22db41d5b",
-                "resourcePath": "objects\\DraggablePoint\\DraggablePoint.yy",
+                "resourcePath": "objects\/DraggablePoint\/DraggablePoint.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -386,7 +370,7 @@
             "Key": "3df8948f-0770-4c1f-8c85-7fac4e2daab2",
             "Value": {
                 "id": "3cfb6107-8f3e-45b1-8716-7e310217faa3",
-                "resourcePath": "sprites\\fun_sprite\\fun_sprite.yy",
+                "resourcePath": "sprites\/fun_sprite\/fun_sprite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -394,7 +378,7 @@
             "Key": "3f65a746-25a8-4dda-b67b-d30d74ae098b",
             "Value": {
                 "id": "4540ccf7-74ca-4c21-829d-6c219fc5fd1f",
-                "resourcePath": "objects\\DraggableTornado\\DraggableTornado.yy",
+                "resourcePath": "objects\/DraggableTornado\/DraggableTornado.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -418,7 +402,7 @@
             "Key": "42950c02-a5d7-43b9-bf1c-369f0e8860b5",
             "Value": {
                 "id": "6f1ddd5e-9147-4ca2-9d6a-3c7c728f84e5",
-                "resourcePath": "sprites\\upArrow\\upArrow.yy",
+                "resourcePath": "sprites\/upArrow\/upArrow.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -442,7 +426,7 @@
             "Key": "4af5110a-7dbf-4de3-9865-79dd09050c7f",
             "Value": {
                 "id": "18bcc6c5-5458-4492-8bc7-9c9203d41098",
-                "resourcePath": "sprites\\blin_0\\blin_0.yy",
+                "resourcePath": "sprites\/blin_0\/blin_0.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -458,7 +442,7 @@
             "Key": "4efecf3b-9d3b-4536-a3cb-40f7869e0080",
             "Value": {
                 "id": "83bb4bd7-65de-4131-8963-78a035aba57f",
-                "resourcePath": "sprites\\sCoin\\sCoin.yy",
+                "resourcePath": "sprites\/sCoin\/sCoin.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -474,7 +458,7 @@
             "Key": "52bcf717-ddc5-4480-b0e9-f639626b0239",
             "Value": {
                 "id": "46905f38-f0f4-4b58-9845-d9bd0303d12a",
-                "resourcePath": "sprites\\bork_0\\bork_0.yy",
+                "resourcePath": "sprites\/bork_0\/bork_0.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -482,7 +466,7 @@
             "Key": "542e8fd7-7769-43ac-bf5b-7fc3ac75f46c",
             "Value": {
                 "id": "b488d652-0aec-4557-96ba-4f160c67d7a4",
-                "resourcePath": "objects\\CowGameObject\\CowGameObject.yy",
+                "resourcePath": "objects\/CowGameObject\/CowGameObject.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -498,7 +482,7 @@
             "Key": "5820d40a-3a6f-4a9b-bef7-2ce035e6f199",
             "Value": {
                 "id": "100b6be7-975c-41ed-beae-bbb5b2ab2f41",
-                "resourcePath": "sprites\\sprite23\\sprite23.yy",
+                "resourcePath": "sprites\/sprite23\/sprite23.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -554,15 +538,7 @@
             "Key": "5e54c76a-0d21-4c8f-be60-e9d69f9e129d",
             "Value": {
                 "id": "b7525ddd-78ba-4781-b7c9-69207bdb7ce8",
-                "resourcePath": "objects\\oEnemy\\oEnemy.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "5fc8b485-d87a-4839-b6a4-e09583862313",
-            "Value": {
-                "id": "01d8b2ec-d464-4572-8d13-fb7487a75a4b",
-                "resourcePath": "objects\\FoxGameObject\\FoxGameObject.yy",
+                "resourcePath": "objects\/oEnemy\/oEnemy.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -602,7 +578,7 @@
             "Key": "65700b45-f489-49d9-9d52-d5e23c1ca71e",
             "Value": {
                 "id": "271fc591-525f-4b1a-93ae-6b4069ee36d1",
-                "resourcePath": "objects\\Tornado\\Tornado.yy",
+                "resourcePath": "objects\/Tornado\/Tornado.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -610,7 +586,7 @@
             "Key": "6714a1d5-d2c4-4ba8-a99b-8a9f845a57d2",
             "Value": {
                 "id": "6de15ead-912f-4421-879c-29eec2346fbf",
-                "resourcePath": "sprites\\sClock\\sClock.yy",
+                "resourcePath": "sprites\/sClock\/sClock.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -618,7 +594,7 @@
             "Key": "690adf10-943d-4d98-b2b6-23133cf85be9",
             "Value": {
                 "id": "12e8fb35-f99f-41b7-ab26-8393525914bf",
-                "resourcePath": "objects\\goals_title\\goals_title.yy",
+                "resourcePath": "objects\/goals_title\/goals_title.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -634,7 +610,7 @@
             "Key": "6b600100-5e46-45ef-923c-ca43c7ccaa4b",
             "Value": {
                 "id": "db4e9c27-3299-4677-af04-903dfe7e9c35",
-                "resourcePath": "objects\\lifeArrowUp\\lifeArrowUp.yy",
+                "resourcePath": "objects\/lifeArrowUp\/lifeArrowUp.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -690,7 +666,7 @@
             "Key": "764aaa9a-26a2-4dae-a180-98c9c35966a1",
             "Value": {
                 "id": "95eb1556-8cd8-4b83-8270-eef71aafa20d",
-                "resourcePath": "objects\\DraggableBlin\\DraggableBlin.yy",
+                "resourcePath": "objects\/DraggableBlin\/DraggableBlin.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -770,7 +746,7 @@
             "Key": "7fd22230-c116-4fab-a475-35ccc549ac51",
             "Value": {
                 "id": "6bde7454-ba70-4992-a5c6-5258391b6cfc",
-                "resourcePath": "objects\\SpaceshipGameObject\\SpaceshipGameObject.yy",
+                "resourcePath": "objects\/SpaceshipGameObject\/SpaceshipGameObject.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -778,7 +754,7 @@
             "Key": "83b1246e-f7e6-4ec1-b075-d038e0cbc821",
             "Value": {
                 "id": "368bae66-4b1b-4002-a4a8-9e1bd0afb442",
-                "resourcePath": "objects\\Control\\Control.yy",
+                "resourcePath": "objects\/Control\/Control.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -786,7 +762,7 @@
             "Key": "846bbc32-27ca-492b-b95e-d030f1e38d37",
             "Value": {
                 "id": "64354e5c-1ca2-4c5b-904a-edfe96f42672",
-                "resourcePath": "objects\\DraggableFun\\DraggableFun.yy",
+                "resourcePath": "objects\/DraggableFun\/DraggableFun.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -802,7 +778,7 @@
             "Key": "88f55f6c-ae4b-43a2-9e01-6265ede85505",
             "Value": {
                 "id": "f526461e-9ede-42b7-b9a7-0836da0ffb23",
-                "resourcePath": "objects\\border\\border.yy",
+                "resourcePath": "objects\/border\/border.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -818,7 +794,7 @@
             "Key": "8a1cefc0-c400-40c0-9ca1-4a0ef4f22ef0",
             "Value": {
                 "id": "5baf3e28-5cb7-42e3-bfdf-cd481085f6ba",
-                "resourcePath": "objects\\oMeta\\oMeta.yy",
+                "resourcePath": "objects\/oMeta\/oMeta.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -842,8 +818,16 @@
             "Key": "8c99700a-50ab-4a94-b8f7-efeb8d7276e7",
             "Value": {
                 "id": "870455f8-1b9d-4c65-8e2d-7939c9b8f086",
-                "resourcePath": "objects\\DraggableCow\\DraggableCow.yy",
+                "resourcePath": "objects\/DraggableCow\/DraggableCow.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8e175dbc-164d-4594-bad1-d358dd20fb29",
+            "Value": {
+                "id": "561e861d-be77-486f-bd3d-abb75c04c69d",
+                "resourcePath": "sprites\/Dog1\/Dog1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -863,14 +847,6 @@
             }
         },
         {
-            "Key": "91b12f7c-e138-487e-933b-7135c47a4c63",
-            "Value": {
-                "id": "b9736cbd-4410-43fa-a370-0bd71c35a742",
-                "resourcePath": "objects\\DraggableFox\\DraggableFox.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "9425d230-db2a-423f-a39a-430159ddbf91",
             "Value": {
                 "id": "574e0b53-06d4-4016-b0f3-6eac7c89fbab",
@@ -882,7 +858,7 @@
             "Key": "94669b91-4e4c-4f61-98b4-b657f190a18c",
             "Value": {
                 "id": "d7b49e98-ca68-48f4-b1e6-6f3e5349709d",
-                "resourcePath": "objects\\lifeArrowDown\\lifeArrowDown.yy",
+                "resourcePath": "objects\/lifeArrowDown\/lifeArrowDown.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -946,7 +922,7 @@
             "Key": "9ef86739-f0a0-4175-bb6e-0862995692fd",
             "Value": {
                 "id": "ec5a5e65-6b20-41a0-94d5-4648c87c4d1e",
-                "resourcePath": "objects\\lifeSpecs\\lifeSpecs.yy",
+                "resourcePath": "objects\/lifeSpecs\/lifeSpecs.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -954,7 +930,7 @@
             "Key": "9fed7efb-7d53-4e41-9a87-55fd0452dc57",
             "Value": {
                 "id": "677ce07a-7e2a-4dfa-8365-89a7c2949f20",
-                "resourcePath": "objects\\goals_controller\\goals_controller.yy",
+                "resourcePath": "objects\/goals_controller\/goals_controller.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -970,7 +946,7 @@
             "Key": "a4c83f55-4921-4b0b-a195-81e5af00fc27",
             "Value": {
                 "id": "c32ea62e-f121-455c-8c58-8c46935562a6",
-                "resourcePath": "sprites\\pika_0\\pika_0.yy",
+                "resourcePath": "sprites\/pika_0\/pika_0.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1018,7 +994,7 @@
             "Key": "b105b846-f61b-42f9-b1c4-77067f1d1fc2",
             "Value": {
                 "id": "42522f06-2ee8-439e-999e-68c2ae1b2891",
-                "resourcePath": "objects\\BrickGameObject\\BrickGameObject.yy",
+                "resourcePath": "objects\/BrickGameObject\/BrickGameObject.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1050,7 +1026,7 @@
             "Key": "b6ed6055-dec5-42d6-af0c-75861b9ac787",
             "Value": {
                 "id": "6c2a7dd3-d755-4250-997e-e19abafbad57",
-                "resourcePath": "objects\\timerArrowUp\\timerArrowUp.yy",
+                "resourcePath": "objects\/timerArrowUp\/timerArrowUp.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1143,18 +1119,18 @@
             }
         },
         {
+            "Key": "d1d56d13-5a88-47be-8f46-c12c69b6555d",
+            "Value": {
+                "id": "798cd8bc-29fc-4a83-9f5d-89fadd6d0cfc",
+                "resourcePath": "sprites\/Dog2\/Dog2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d1d70679-9b36-46e3-8f9f-ef62cf61e433",
             "Value": {
                 "id": "4634e55d-25f9-48ec-a87c-cad90720339d",
                 "resourcePath": "objects\/oRailMoverH\/oRailMoverH.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "d2057613-3c67-4325-af24-1f0e2ebe7ff3",
-            "Value": {
-                "id": "d9dd47e1-dbbc-4ea5-a2cb-ed9914b0b0cc",
-                "resourcePath": "objects\\DraggableMemes\\DraggableMemes.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1218,8 +1194,16 @@
             "Key": "db4a1ac8-d693-4242-9c6a-d281c5d0413c",
             "Value": {
                 "id": "3e40db4e-9d05-4972-9727-9b4146ff145d",
-                "resourcePath": "objects\\Fun\\Fun.yy",
+                "resourcePath": "objects\/Fun\/Fun.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "dd0c8278-8bd9-42b3-a8e0-824033052c24",
+            "Value": {
+                "id": "27e55f76-d624-4559-9411-c2d6e18f7232",
+                "resourcePath": "sprites\/Fun_button\/Fun_button.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1242,7 +1226,7 @@
             "Key": "e0f5d195-3b1d-4523-8d82-c63472002be6",
             "Value": {
                 "id": "0da52e01-fdb9-4ab7-8fe6-9946c92839f4",
-                "resourcePath": "objects\\victoryMeta\\victoryMeta.yy",
+                "resourcePath": "objects\/victoryMeta\/victoryMeta.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1266,7 +1250,7 @@
             "Key": "e46a3540-9b19-4249-822c-7e83a8833fbe",
             "Value": {
                 "id": "1849e7d9-6895-41e5-9708-d21eefd5e516",
-                "resourcePath": "sprites\\border_sprite\\border_sprite.yy",
+                "resourcePath": "sprites\/border_sprite\/border_sprite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1274,7 +1258,7 @@
             "Key": "e519b4bc-504b-4fe2-bfef-2be486b3516d",
             "Value": {
                 "id": "d4c0ffc6-65de-4535-87ad-3ba8193a35b1",
-                "resourcePath": "objects\\oLife\\oLife.yy",
+                "resourcePath": "objects\/oLife\/oLife.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1287,18 +1271,10 @@
             }
         },
         {
-            "Key": "e62de259-5fb0-42f8-8804-30899d82e280",
-            "Value": {
-                "id": "1fe168e5-df19-4c3a-b272-144c91aa40ee",
-                "resourcePath": "objects\\BongoGameObject\\BongoGameObject.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "e8a6ac7c-a66a-4a9f-b97d-5d8444368d4c",
             "Value": {
                 "id": "f43f1e4e-b7fa-4b9e-9ce5-6dd12b0f4c68",
-                "resourcePath": "objects\\Cat1GameObject\\Cat1GameObject.yy",
+                "resourcePath": "objects\/Cat1GameObject\/Cat1GameObject.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1306,7 +1282,7 @@
             "Key": "e8e6911b-48f5-4777-9b3e-61c10c6e887a",
             "Value": {
                 "id": "2517c952-14f6-4f3d-b541-06b950235e24",
-                "resourcePath": "sprites\\Pongodrum\\Pongodrum.yy",
+                "resourcePath": "sprites\/Pongodrum\/Pongodrum.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1354,16 +1330,16 @@
             "Key": "f3d516fe-a2ad-48f7-acc3-153f341d66d7",
             "Value": {
                 "id": "cce8635a-baec-4bf2-87ea-2f8677b97349",
-                "resourcePath": "objects\\oGameObjectParent\\oGameObjectParent.yy",
+                "resourcePath": "objects\/oGameObjectParent\/oGameObjectParent.yy",
                 "resourceType": "GMObject"
             }
         },
         {
-            "Key": "f3db7c12-10d8-42d6-96d7-fb393b63d750",
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
-                "id": "c69427bb-6753-48fe-bd4c-4521d7490335",
-                "resourcePath": "sprites\\foxen_0\\foxen_0.yy",
-                "resourceType": "GMSprite"
+                "id": "55f32e74-91a5-4397-8e37-da455b2854ac",
+                "resourcePath": "options\/mac\/options_mac.yy",
+                "resourceType": "GMMacOptions"
             }
         },
         {
@@ -1386,7 +1362,7 @@
             "Key": "f98b8117-0554-43d5-a36f-0c9c7a4a3f73",
             "Value": {
                 "id": "9fe88ea6-7e89-45a5-9610-14fafc4f8314",
-                "resourcePath": "sprites\\tornado_sprite\\tornado_sprite.yy",
+                "resourcePath": "sprites\/tornado_sprite\/tornado_sprite.yy",
                 "resourceType": "GMSprite"
             }
         },
