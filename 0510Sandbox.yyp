@@ -82,7 +82,7 @@
             "Key": "03fe5928-3417-4b42-9ea9-e562dd21e894",
             "Value": {
                 "id": "5e1894e1-22ea-4ede-9b50-6ee811f8f962",
-                "resourcePath": "objects\\BongoGameObject\\BongoGameObject.yy",
+                "resourcePath": "objects\/BongoGameObject\/BongoGameObject.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -138,7 +138,7 @@
             "Key": "0ff296e6-7f3b-4e6c-883a-14ebb6048bdc",
             "Value": {
                 "id": "d7c76dd3-0c54-43e6-ba78-9da34de26e87",
-                "resourcePath": "views\\0ff296e6-7f3b-4e6c-883a-14ebb6048bdc.yy",
+                "resourcePath": "views\/0ff296e6-7f3b-4e6c-883a-14ebb6048bdc.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -162,7 +162,7 @@
             "Key": "14c1a9b7-5d1e-444e-a914-92aae7e8f8e9",
             "Value": {
                 "id": "69554e01-b681-42f5-9fbb-c26b28071606",
-                "resourcePath": "objects\\oBullet\\oBullet.yy",
+                "resourcePath": "objects\/oBullet\/oBullet.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -170,7 +170,7 @@
             "Key": "14f46a13-7096-4ac9-874a-e81d36fdaeae",
             "Value": {
                 "id": "96b2e404-1901-4c36-b897-0d86c5b676c7",
-                "resourcePath": "objects\\oSpawn\\oSpawn.yy",
+                "resourcePath": "objects\/oSpawn\/oSpawn.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -322,7 +322,7 @@
             "Key": "2c66ce27-07b4-4aaa-853d-2819f9241e7a",
             "Value": {
                 "id": "eda01988-1d31-4f6e-8a00-8ea1b8b3c4c0",
-                "resourcePath": "objects\\oTowerParent\\oTowerParent.yy",
+                "resourcePath": "objects\/oTowerParent\/oTowerParent.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -330,7 +330,7 @@
             "Key": "2e2386e2-cc68-4e86-928a-8b5315521e03",
             "Value": {
                 "id": "5b717fc8-490e-4852-982d-9110b0675d55",
-                "resourcePath": "paths\\pTest0\\pTest0.yy",
+                "resourcePath": "paths\/pTest0\/pTest0.yy",
                 "resourceType": "GMPath"
             }
         },
@@ -386,7 +386,7 @@
             "Key": "36237f6c-ff78-49b7-b9f9-95c0b53baeb7",
             "Value": {
                 "id": "be8f122f-20da-48f3-8a7d-3f92d982e339",
-                "resourcePath": "objects\\Memes\\Memes.yy",
+                "resourcePath": "objects\/Memes\/Memes.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -394,7 +394,7 @@
             "Key": "36268b17-dc08-455b-b39d-1ea24d6c9cee",
             "Value": {
                 "id": "71caffd5-fe9a-4e2d-907c-b05f41d89914",
-                "resourcePath": "views\\36268b17-dc08-455b-b39d-1ea24d6c9cee.yy",
+                "resourcePath": "views\/36268b17-dc08-455b-b39d-1ea24d6c9cee.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -418,7 +418,7 @@
             "Key": "3b056079-7c9a-447b-9c2d-9564133f4a1d",
             "Value": {
                 "id": "3c9b6032-609a-442c-832b-a555ce74ca36",
-                "resourcePath": "objects\\FoxGameObject\\FoxGameObject.yy",
+                "resourcePath": "objects\/FoxGameObject\/FoxGameObject.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -514,7 +514,7 @@
             "Key": "4c28e191-b793-4fe8-bd4f-d30e1a5b78c4",
             "Value": {
                 "id": "6a505283-c93f-44f1-97b8-cec425963ca3",
-                "resourcePath": "objects\\oTower2\\oTower2.yy",
+                "resourcePath": "objects\/oTower2\/oTower2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -522,7 +522,7 @@
             "Key": "4c3255a0-7fcd-4f32-b455-8ad295048853",
             "Value": {
                 "id": "98a68d29-ce93-4565-b180-00349a02b23b",
-                "resourcePath": "sprites\\memes_sprite\\memes_sprite.yy",
+                "resourcePath": "sprites\/memes_sprite\/memes_sprite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -650,7 +650,7 @@
             "Key": "6172d942-3606-4140-a00f-58bfd5987604",
             "Value": {
                 "id": "4fa64eaa-c8f1-459b-9beb-1c2dc4632b0c",
-                "resourcePath": "sprites\\sBullet\\sBullet.yy",
+                "resourcePath": "sprites\/sBullet\/sBullet.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -738,7 +738,7 @@
             "Key": "71b8f347-3fdc-4268-99c4-3785f6138b3c",
             "Value": {
                 "id": "eafdf1a8-e59e-4e2b-a5a0-b13c59282e5f",
-                "resourcePath": "objects\\DraggableFox\\DraggableFox.yy",
+                "resourcePath": "objects\/DraggableFox\/DraggableFox.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -762,7 +762,7 @@
             "Key": "73db13ff-c9ea-4afd-882c-a434474d9e50",
             "Value": {
                 "id": "8e4ba9e4-b052-44f0-a846-38470b2b645d",
-                "resourcePath": "objects\\oTower1\\oTower1.yy",
+                "resourcePath": "objects\/oTower1\/oTower1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -826,7 +826,7 @@
             "Key": "7d1e1d5c-2e0b-447e-85c5-5cba24d758b1",
             "Value": {
                 "id": "ef9cd982-51f0-4736-b957-815a81117957",
-                "resourcePath": "sprites\\sTower3\\sTower3.yy",
+                "resourcePath": "sprites\/sTower3\/sTower3.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -922,7 +922,7 @@
             "Key": "8a686055-3d75-475f-9d14-e6763a23d5c2",
             "Value": {
                 "id": "9d788724-aa9c-48af-a733-67f5f4c1da2e",
-                "resourcePath": "sprites\\sTower2\\sTower2.yy",
+                "resourcePath": "sprites\/sTower2\/sTower2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -930,7 +930,7 @@
             "Key": "8aee36a5-6bb4-4597-83e4-3b21cfa5ed5e",
             "Value": {
                 "id": "b97b1af4-7849-4936-a49f-f8e84b52cb47",
-                "resourcePath": "sprites\\sEnemy\\sEnemy.yy",
+                "resourcePath": "sprites\/sEnemy\/sEnemy.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -970,7 +970,7 @@
             "Key": "8e2d59a6-aaa2-49c3-a11d-ab9ed3509aee",
             "Value": {
                 "id": "c391c617-3252-4359-a769-7ee5aa2a1ba1",
-                "resourcePath": "sprites\\foxen_0\\foxen_0.yy",
+                "resourcePath": "sprites\/foxen_0\/foxen_0.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1074,7 +1074,7 @@
             "Key": "9f1aff60-74b0-4375-9d60-5ebbe548a4d1",
             "Value": {
                 "id": "9c09eaf6-4bc1-4720-9cf6-9234ac385030",
-                "resourcePath": "objects\\DraggableEnemySpawn\\DraggableEnemySpawn.yy",
+                "resourcePath": "objects\/DraggableEnemySpawn\/DraggableEnemySpawn.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1130,7 +1130,7 @@
             "Key": "a9c04e25-9bdc-47c0-8375-6a0c5b80aea1",
             "Value": {
                 "id": "5acad651-7906-4639-8169-753f0685c8b8",
-                "resourcePath": "sprites\\sTower1\\sTower1.yy",
+                "resourcePath": "sprites\/sTower1\/sTower1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1146,7 +1146,7 @@
             "Key": "ad03e5bd-5313-4585-a124-6227e5f21072",
             "Value": {
                 "id": "982d2895-0cf4-4e1c-b5cd-64d3fd168393",
-                "resourcePath": "objects\\DraggableTower1\\DraggableTower1.yy",
+                "resourcePath": "objects\/DraggableTower1\/DraggableTower1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1215,6 +1215,22 @@
             }
         },
         {
+            "Key": "bd264e68-a0a2-4f1c-8aa0-c53343863982",
+            "Value": {
+                "id": "1abf2db3-18df-4816-ab99-b19a6952b717",
+                "resourcePath": "sprites\/Gravity_button\/Gravity_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bd652692-d29e-477e-bb52-a1a02b91d740",
+            "Value": {
+                "id": "026cd94e-4e3c-455d-919c-0718cb7bdf67",
+                "resourcePath": "sprites\/Tornado_button\/Tornado_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bded0971-ccac-4f37-8be8-c1226b90aa29",
             "Value": {
                 "id": "af391e12-91a0-4ef9-b933-4506c8f25532",
@@ -1234,7 +1250,7 @@
             "Key": "c431630f-219e-422f-a87a-6370e2d3c06e",
             "Value": {
                 "id": "bff1e27d-28ad-4a67-a04c-18c9532fcf10",
-                "resourcePath": "scripts\\mouseOverTD\\mouseOverTD.yy",
+                "resourcePath": "scripts\/mouseOverTD\/mouseOverTD.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -1266,7 +1282,7 @@
             "Key": "ce522b25-1cae-4397-86b2-d41f8edf63e3",
             "Value": {
                 "id": "df6fcaef-218e-4cd7-b49e-f9c1c2970845",
-                "resourcePath": "objects\\oTower3\\oTower3.yy",
+                "resourcePath": "objects\/oTower3\/oTower3.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1314,7 +1330,7 @@
             "Key": "d2057613-3c67-4325-af24-1f0e2ebe7ff3",
             "Value": {
                 "id": "e450f146-4fc4-430e-9bb7-39cc6f5d6709",
-                "resourcePath": "objects\\DraggableMemes\\DraggableMemes.yy",
+                "resourcePath": "objects\/DraggableMemes\/DraggableMemes.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1322,7 +1338,7 @@
             "Key": "d3f3c237-871c-44af-96fb-3192ca728c06",
             "Value": {
                 "id": "024d0d00-4728-4741-8641-fed873a8b619",
-                "resourcePath": "objects\\oPathMover\\oPathMover.yy",
+                "resourcePath": "objects\/oPathMover\/oPathMover.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1522,7 +1538,7 @@
             "Key": "f3ce7f6e-a778-49b5-9839-2d06543f4222",
             "Value": {
                 "id": "2946a07d-9174-40fe-9f70-61723c9618e0",
-                "resourcePath": "objects\\DraggableBongo\\DraggableBongo.yy",
+                "resourcePath": "objects\/DraggableBongo\/DraggableBongo.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1532,6 +1548,14 @@
                 "id": "cce8635a-baec-4bf2-87ea-2f8677b97349",
                 "resourcePath": "objects\/oGameObjectParent\/oGameObjectParent.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "131a0643-4d23-4e92-ae78-65e5a5839014",
+                "resourcePath": "options\/mac\/options_mac.yy",
+                "resourceType": "GMMacOptions"
             }
         },
         {
