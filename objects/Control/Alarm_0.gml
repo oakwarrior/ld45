@@ -25,7 +25,7 @@ for (var i = 0; i < array_length_1d(layer_elements); i++;) {
 if (closest_object != -1) {
 	if (variable_instance_exists(closest_object, "nothing_controllable")) {
 		closest_object.nothing_controllable = true;
-		var border_hi_gms = instance_create(closest_object.x - 4, closest_object.y - 4, border_object)
+		var border_hi_gms = instance_create(closest_object.x, closest_object.y, border_object)
 		border_hi_gms.parent = closest_object
 	}
 }
