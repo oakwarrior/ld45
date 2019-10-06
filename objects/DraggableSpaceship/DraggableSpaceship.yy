@@ -14,7 +14,7 @@
             "mvc": "1.0",
             "objectId": "1eb4dae7-f7e4-4c4f-9aa9-026c3b319cf4",
             "propertyId": "3b00700e-05e6-4067-b801-57b482386fc8",
-            "value": "Spaceship"
+            "value": "SpaceshipGameObject"
         }
     ],
     "parentObjectId": "1eb4dae7-f7e4-4c4f-9aa9-026c3b319cf4",

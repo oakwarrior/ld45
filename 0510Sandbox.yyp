@@ -655,14 +655,6 @@
             }
         },
         {
-            "Key": "75fc14b0-8ec8-4645-9372-00e8c0130b45",
-            "Value": {
-                "id": "fe126ab7-8a08-4251-ab9a-8a57e014be7f",
-                "resourcePath": "objects\\Spaceship\\Spaceship.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "764aaa9a-26a2-4dae-a180-98c9c35966a1",
             "Value": {
                 "id": "95eb1556-8cd8-4b83-8270-eef71aafa20d",
@@ -740,6 +732,14 @@
                 "id": "b369c438-39e3-4bbd-bcf3-eefbab8d82e6",
                 "resourcePath": "views\/ce4bb539-a93b-40b0-97fa-8b624893cd26-room.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7fd22230-c116-4fab-a475-35ccc549ac51",
+            "Value": {
+                "id": "6bde7454-ba70-4992-a5c6-5258391b6cfc",
+                "resourcePath": "objects\\SpaceshipGameObject\\SpaceshipGameObject.yy",
+                "resourceType": "GMObject"
             }
         },
         {
