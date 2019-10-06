@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "02cfa5fa-e5df-4d94-9cf0-83dfceae6629",
+            "Value": {
+                "id": "e46e28f1-b602-4721-be14-25875d9f93a8",
+                "resourcePath": "sprites\/Coin\/Coin.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "02e006b7-8d47-41e5-bf63-32414be2829c",
             "Value": {
                 "id": "9af8bf7a-4b8a-404e-a664-7eb45be55e7c",
@@ -204,6 +212,14 @@
                 "id": "e35bda91-8a9a-4cc9-a81a-57e0ce4ce44b",
                 "resourcePath": "objects\/oRail\/oRail.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "18780a6b-a87f-48f8-8b6a-ddc13b942144",
+            "Value": {
+                "id": "a1e92d2c-fdbc-4d4e-a8dc-02968e9774c3",
+                "resourcePath": "sprites\/Rubber_duch\/Rubber_duch.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1167,6 +1183,14 @@
             }
         },
         {
+            "Key": "a1f2b800-f1bc-4504-8d35-b9c9faf4134d",
+            "Value": {
+                "id": "ae9ab452-97d0-4246-8686-c1a3e1e31272",
+                "resourcePath": "sprites\/Dog2\/Dog2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a4c83f55-4921-4b0b-a195-81e5af00fc27",
             "Value": {
                 "id": "c32ea62e-f121-455c-8c58-8c46935562a6",
@@ -1244,6 +1268,14 @@
                 "id": "145e0ca5-a173-4511-b638-84dd8d80affb",
                 "resourcePath": "objects\/oCircleMover\/oCircleMover.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b2957fe7-1164-4b90-9f5e-ba7b3fff72dd",
+            "Value": {
+                "id": "0ebdca5a-4799-48de-8cd9-d09995022107",
+                "resourcePath": "sprites\/Dog3\/Dog3.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1564,6 +1596,14 @@
                 "id": "c4bf6ea1-ccfd-4da5-93ed-386692843c66",
                 "resourcePath": "views\/e5634c5e-8e14-4c1e-b496-2016b0557d7b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e6c37c93-941b-41c3-8d87-b1466cfeb9c4",
+            "Value": {
+                "id": "af74d2d2-1a00-454d-afc4-28752c12d36c",
+                "resourcePath": "sprites\/Dog01\/Dog01.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
