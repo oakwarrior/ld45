@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if global.livesQty >= 2
+if global.spawn_amount >= 2
 {
-global.livesQty -=1	
+global.spawn_amount -= 1
 }

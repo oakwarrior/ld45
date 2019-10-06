@@ -127,14 +127,6 @@
             }
         },
         {
-            "Key": "0aed455d-6a42-4980-8838-40e24ec6f51d",
-            "Value": {
-                "id": "539b2115-6348-4b21-bf6b-8dce5ddf9d63",
-                "resourcePath": "objects\\lifeArrowUp1\\lifeArrowUp1.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "0badaac3-3c2b-4e5d-a933-c00fc93c9564",
             "Value": {
                 "id": "20f2ab98-228a-4f04-aae2-13f3f74dc46f",
@@ -319,6 +311,14 @@
             }
         },
         {
+            "Key": "26a7469e-265a-4b69-aecc-d23f17c754a3",
+            "Value": {
+                "id": "b8d55af1-30a9-4d83-b85c-d4ae590ae785",
+                "resourcePath": "objects\\enemyArrowDown\\enemyArrowDown.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "272709ff-c4a8-40d3-9be6-3442c4a4ccdf",
             "Value": {
                 "id": "abeaa48e-1bcf-4d7c-8c6d-6d2e66c0d327",
@@ -428,14 +428,6 @@
                 "id": "71caffd5-fe9a-4e2d-907c-b05f41d89914",
                 "resourcePath": "views\/36268b17-dc08-455b-b39d-1ea24d6c9cee.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "36f3a94c-4fd3-4cf4-999b-1ca316b3057f",
-            "Value": {
-                "id": "98cbf53a-2f01-490c-a082-b6522db236af",
-                "resourcePath": "objects\/tada\/tada.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -647,6 +639,14 @@
             }
         },
         {
+            "Key": "56caf0e4-3bea-419e-b8a0-3ee5a7f24ff9",
+            "Value": {
+                "id": "cd308303-8143-43dc-af6a-35eee81db76f",
+                "resourcePath": "objects\\enemyArrowUp\\enemyArrowUp.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "57395f72-8d7d-4b12-98b1-8c17203b06ef",
             "Value": {
                 "id": "20023f5f-87a0-4ea5-a9eb-14d303232588",
@@ -812,6 +812,14 @@
                 "id": "051501ff-0c9b-4a27-99b1-612a263014ec",
                 "resourcePath": "sprites\/Tower2\/Tower2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "69c9cec3-4109-4496-a251-f2bc8e74e43e",
+            "Value": {
+                "id": "440550a8-d73b-43d7-b98b-f9a1978df505",
+                "resourcePath": "objects\\tada\\tada.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1252,14 +1260,6 @@
                 "id": "710c5097-08c8-4902-bec6-e4b093328d7d",
                 "resourcePath": "rooms\/rmTest1\/rmTest1.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "a199b2b4-08f0-4514-9e0e-3af96fb5cf46",
-            "Value": {
-                "id": "e7a1f557-fe48-4cd9-a3de-80209db45701",
-                "resourcePath": "objects\\lifeArrowDown1\\lifeArrowDown1.yy",
-                "resourceType": "GMObject"
             }
         },
         {
