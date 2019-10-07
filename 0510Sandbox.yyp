@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "01801fbe-3565-4893-a793-7e8c39849472",
+            "Value": {
+                "id": "f4fb6177-3dc6-4e82-9868-bf869e17c78f",
+                "resourcePath": "sounds\\snd_epicsaxguy\\snd_epicsaxguy.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "02cd5253-f19b-4dfb-86b8-83350453ebc4",
             "Value": {
                 "id": "c6ebd50f-5381-4d94-a10c-5463bc35f487",
