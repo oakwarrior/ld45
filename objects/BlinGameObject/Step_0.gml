@@ -14,3 +14,10 @@ if (variable_instance_exists(self, "nothing_controllable") &&
 		phy_position_x += 5;
 	}
 }
+//if global.startedPlaying = true
+{
+if place_meeting(x,y,oBullet)
+{
+instance_destroy()
+}
+}

@@ -1,4 +1,9 @@
 show_debug_message("point direction " + string(direction))
+if place_meeting(x,y,ui_template_collider)
+{
+instance_destroy()	
+}
+
 if place_meeting(x,y,oPathMover)
 {
 alarm[0]=1	

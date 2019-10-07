@@ -10,8 +10,8 @@ kRight       = keyboard_check(vk_right)          || gamepad_axis_value(0, gp_axi
 kUp          = keyboard_check(vk_up)             || gamepad_axis_value(0, gp_axislv) < -0.40;
 kDown        = keyboard_check(vk_down)           || gamepad_axis_value(0, gp_axislv) >  0.75; // Test new values
 
-kJump        = keyboard_check_pressed(ord("Z"))  || gamepad_button_check_pressed(0, gp_face1);
-kJumpRelease = keyboard_check_released(ord("Z")) || gamepad_button_check_released(0, gp_face1);
+kJump        = keyboard_check_pressed(vk_up)  || gamepad_button_check_pressed(0, gp_face1);
+kJumpRelease = keyboard_check_released(vk_up) || gamepad_button_check_released(0, gp_face1);
 
 // Movement ///////////////////////////////////////////////////////////////////
 

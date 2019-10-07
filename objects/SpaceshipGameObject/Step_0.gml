@@ -8,3 +8,27 @@ if (variable_instance_exists(self, "nothing_controllable") && nothing_controllab
 		phy_rotation = -point_direction(phy_position_x, phy_position_y, mouse_x, mouse_y) + 90
 	}
 }
+
+if global.startedPlaying = true
+{
+for (var k = 0 ; k < ds_grid_height(global.enemyTable) ; k++)
+{
+if place_meeting(x-4,y,ds_grid_get(global.enemyTable,0,k))
+or place_meeting(x+4,y,ds_grid_get(global.enemyTable,0,k))
+or place_meeting(x,y-4,ds_grid_get(global.enemyTable,0,k))
+or place_meeting(x,y+4,ds_grid_get(global.enemyTable,0,k))
+{
+with (ds_grid_get(global.enemyTable,0,k))
+{
+if global.goalLife = true
+{
+global.livesQty -=1	
+audio_play_sound(snd_oof, 1, false);
+}
+instance_destroy()
+}
+}
+}
+}
+
+
