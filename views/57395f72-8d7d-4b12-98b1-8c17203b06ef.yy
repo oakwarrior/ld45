@@ -9,7 +9,8 @@
         "bd652692-d29e-477e-bb52-a1a02b91d740",
         "4c3255a0-7fcd-4f32-b455-8ad295048853",
         "ec015c45-7997-4965-85c9-c31e6945daf7",
-        "3ff482e2-f1ff-4388-a171-9eee78b1bfe6"
+        "3ff482e2-f1ff-4388-a171-9eee78b1bfe6",
+        "e39ed1ea-f101-4452-839e-e67d2575a9d5"
     ],
     "filterType": "GMSprite",
     "folderName": "Mechanics",

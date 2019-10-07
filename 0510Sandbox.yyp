@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "09d77c80-5498-497b-b064-6f1bd28e2b27",
+            "Value": {
+                "id": "bbb0186e-9eaf-4fab-b05e-46a1c363a0ae",
+                "resourcePath": "sprites\\mainchar_0\\mainchar_0.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0badaac3-3c2b-4e5d-a933-c00fc93c9564",
             "Value": {
                 "id": "20f2ab98-228a-4f04-aae2-13f3f74dc46f",
@@ -927,6 +935,14 @@
             }
         },
         {
+            "Key": "75c8e5ac-90e9-4575-b882-522e08d2c727",
+            "Value": {
+                "id": "f90cb2a3-2e51-432d-8343-d858e8a10ba1",
+                "resourcePath": "sprites\\Finish\\Finish.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "764aaa9a-26a2-4dae-a180-98c9c35966a1",
             "Value": {
                 "id": "95eb1556-8cd8-4b83-8270-eef71aafa20d",
@@ -1351,6 +1367,14 @@
             }
         },
         {
+            "Key": "b0e2810f-a846-40f8-a44a-d0c6ea1259f5",
+            "Value": {
+                "id": "0c123102-6cac-4087-b6dc-510a8e843819",
+                "resourcePath": "sprites\\Life\\Life.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b105b846-f61b-42f9-b1c4-77067f1d1fc2",
             "Value": {
                 "id": "42522f06-2ee8-439e-999e-68c2ae1b2891",
@@ -1687,6 +1711,14 @@
             }
         },
         {
+            "Key": "e39ed1ea-f101-4452-839e-e67d2575a9d5",
+            "Value": {
+                "id": "fa9e793f-3f7c-48ab-80d5-8291d5bcbc91",
+                "resourcePath": "sprites\\DeleteMechanic\\DeleteMechanic.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e46a3540-9b19-4249-822c-7e83a8833fbe",
             "Value": {
                 "id": "1849e7d9-6895-41e5-9708-d21eefd5e516",
@@ -1755,6 +1787,14 @@
             "Value": {
                 "id": "c9937165-76a0-4bc6-8868-d9eebf8ab69b",
                 "resourcePath": "sprites\/Memes_button\/Memes_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ee9311e6-12ca-4925-aafd-e0bb78a652cd",
+            "Value": {
+                "id": "4dea6120-f503-4514-9c7a-09a6399ff138",
+                "resourcePath": "sprites\\Timer\\Timer.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1852,6 +1892,14 @@
                 "id": "089a7944-82be-46b3-a001-c1413ec4092e",
                 "resourcePath": "views\/fed01199-e8e9-4056-97da-ee4ea83549a1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ff15f246-cf23-4550-9e04-80f45ba1cf36",
+            "Value": {
+                "id": "bab3adb2-7d96-426e-b497-d27c4f753d5f",
+                "resourcePath": "sprites\\Brickplatform\\Brickplatform.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
