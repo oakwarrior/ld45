@@ -20,7 +20,10 @@
         "006ad31e-94a0-4aca-9129-9f6c1b3496a4",
         "d7e2cfed-1e8e-46cd-98ce-a53eaf6c471d",
         "8fe9ec0c-09f3-4d58-89a6-845061e9186a",
-        "0a0104e0-10d9-4951-8c89-bcd2a72376e1"
+        "0a0104e0-10d9-4951-8c89-bcd2a72376e1",
+        "2ebc0129-ee7b-4ca3-bd82-432c34984296",
+        "2eeba3e8-3e7c-4634-9ec1-b09ec1961a89",
+        "7f9750cd-a02c-470b-a831-600f9271c5b0"
     ],
     "filterType": "GMSprite",
     "folderName": "Assets",
