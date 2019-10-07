@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "0a0104e0-10d9-4951-8c89-bcd2a72376e1",
+            "Value": {
+                "id": "1bcb3d88-b9a4-4d5c-9e92-99bab635a52a",
+                "resourcePath": "sprites\\BackgroundSpace\\BackgroundSpace.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0badaac3-3c2b-4e5d-a933-c00fc93c9564",
             "Value": {
                 "id": "20f2ab98-228a-4f04-aae2-13f3f74dc46f",
@@ -1231,6 +1239,14 @@
             }
         },
         {
+            "Key": "8fe9ec0c-09f3-4d58-89a6-845061e9186a",
+            "Value": {
+                "id": "578c4e27-8d96-48a6-88b8-105d96cb8c82",
+                "resourcePath": "sprites\\BackgroundCandy\\BackgroundCandy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8feca8eb-601f-47dc-bd8d-37afe2f1a8a2",
             "Value": {
                 "id": "c2509b2b-ee1a-42e5-8ef6-b7ed25a5550e",
@@ -1751,6 +1767,14 @@
             }
         },
         {
+            "Key": "d7e2cfed-1e8e-46cd-98ce-a53eaf6c471d",
+            "Value": {
+                "id": "ee8a4b43-3d76-4118-8b1a-dd195a4b5f96",
+                "resourcePath": "sprites\\BackgroundWindows\\BackgroundWindows.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d83b328f-664f-42fb-a808-37d850e8c88d",
             "Value": {
                 "id": "26919517-c619-43c4-b009-a02efb796746",
@@ -1996,6 +2020,14 @@
                 "id": "9fe88ea6-7e89-45a5-9610-14fafc4f8314",
                 "resourcePath": "sprites\/tornado_sprite\/tornado_sprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f9d8f8ff-0001-4464-ab80-d55d8b20224f",
+            "Value": {
+                "id": "3b26c781-e2bf-4809-803b-898a9a73913a",
+                "resourcePath": "objects\\oBackground\\oBackground.yy",
+                "resourceType": "GMObject"
             }
         },
         {

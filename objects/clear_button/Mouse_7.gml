@@ -9,6 +9,13 @@ global.tornado = false;
 global.gravityvar = 10;
 global.funvar = 1;
 audio_stop_sound(snd_tornado5);
+
+global.switchBackground = true;
+
+
+
+
+
 if instance_exists(oPathMover)
 {
 with (oPathMover)
