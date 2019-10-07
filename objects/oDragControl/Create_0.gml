@@ -7,4 +7,4 @@ global.tornado = false;
 global.gravityvar = 10;
 global.funvar = 1.5;
 
-audio_play_sound(snd_music, 3, true);
+audio_play_sound(snd_music2, 3, true);

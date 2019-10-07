@@ -3,7 +3,8 @@
 physics_world_gravity(0, 0);
 global.memes = false;
 audio_stop_sound(snd_epicsaxguy);
-audio_play_sound(snd_music, 3, true);	
+audio_stop_sound(snd_music2);
+audio_play_sound(snd_music2, 3, true);	
 global.tornado = false;
 global.gravityvar = 10;
 global.funvar = 1;
