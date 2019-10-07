@@ -7,6 +7,7 @@ or place_meeting(x,y-4,global.playerId) and global.startedPlaying = true
 or place_meeting(x,y+4,global.playerId) and global.startedPlaying = true
 {
 global.points +=1
+audio_play_sound(snd_coins, 1, false);
 instance_destroy()
 }
 

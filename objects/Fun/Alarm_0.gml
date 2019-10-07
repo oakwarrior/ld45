@@ -1,4 +1,5 @@
 global.funvar += 0.5;
+audio_play_sound(snd_fun9, 1, false);
 
 visible = false
 

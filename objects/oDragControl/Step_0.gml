@@ -26,6 +26,7 @@ if (mouse_check_button_pressed(mb_left)) {
 				}
             }
         }
+		audio_play_sound(snd_buttonclick, 1, false);
     }
     if (lowest_id != noone) {
 		obj_drag_object = lowest_id;
@@ -37,6 +38,7 @@ if (mouse_check_button_released(mb_left))
 {
 	if (obj_drag_object != noone) {
 		with (obj_drag_object) {
+			audio_play_sound(snd_drop, 1, false);
 			draggable = false;
 			instance_destroy();
 			if mouse_x > 30 and mouse_x < 580 and mouse_y > 120 and mouse_y <510 {

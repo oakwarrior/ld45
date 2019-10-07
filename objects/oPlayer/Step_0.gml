@@ -77,7 +77,7 @@ if (!kRight && !kLeft) {
 if (kJump && cLeft && !onGround) {   
     xscale = 0.5;
     yscale = 1.5;
-                    
+    audio_play_sound(snd_jump, 1, false);   
     for (var i = 0; i < 4; i++)
         instance_create(bbox_left, random_range(bbox_top, bbox_bottom), oFxDust);
                  
@@ -92,7 +92,7 @@ if (kJump && cLeft && !onGround) {
 } else if (kJump && cRight && !onGround) {   
     xscale = 0.5;
     yscale = 1.5;
-
+	audio_play_sound(snd_jump, 1, false);
     for (var i = 0; i < 4; i++)
         instance_create(bbox_right, random_range(bbox_top, bbox_bottom), oFxDust);
                                
@@ -108,8 +108,10 @@ if (kJump && cLeft && !onGround) {
 
 // Jump 
 if (kJump) {
+	
     // THIS LINE HAS BEEN EDITED TO ALLOW FOR MULTI JUMPS 
     if (onGround) {
+		audio_play_sound(snd_jump, 1, false);
         // Fall thru platform
         if (kDown) && (place_meeting(x, y + 1, oParJumpThru) && !place_meeting(x, y + 1, oParSolid)) {
                 ++y;
@@ -157,6 +159,7 @@ with (ds_grid_get(global.enemyTable,0,k))
 if global.goalLife = true
 {
 global.livesQty -=1	
+audio_play_sound(snd_oof, 1, false);
 }
 instance_destroy()
 }

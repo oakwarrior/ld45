@@ -16,6 +16,10 @@ if pPos >=1
 {
 if global.goalLife = true
 {
+	if(global.memes && isTransformed) {
+		audio_play_sound(snd_bork, 1, false);	
+	}
+	
 global.livesQty -=1	
 }
 /*if oSpawn.spawn_amount = global.spawn_amount
@@ -38,4 +42,9 @@ path_add_point(path,11,45,1)
 }	
 }*/
 instance_destroy()
+}
+
+if(!isTransformed && global.memes) {
+	sprite_index = bork_0;
+	isTransformed = true;
 }

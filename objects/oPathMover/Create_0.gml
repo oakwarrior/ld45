@@ -34,3 +34,12 @@ pDir = 1.0;
 // Currently moving
 pMov = true; 
 
+isTransformed = false;
+
+rando = irandom(2);
+if(rando == 1) {
+	sprite_index = Dog2;
+}
+else if(rando == 2) {
+	sprite_index = Dog3;
+}

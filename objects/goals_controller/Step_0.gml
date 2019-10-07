@@ -73,7 +73,10 @@ or global.livesQty <=0 and  !instance_exists(oMeta) and global.goalMeta = false
 {
 	if instance_exists(lifeSpecs)
 	{
-lifeSpecs.draw5 = true	
+		if(!lifeSpecs.draw5) {
+			audio_play_sound(snd_womp_womp, 1, false);	
+			lifeSpecs.draw5 = true	
+		}
 	}
 var i;
 for (i = 0; i < instance_count; i += 1;)

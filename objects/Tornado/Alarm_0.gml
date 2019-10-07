@@ -1,6 +1,9 @@
 
 
 visible = false
+if(!global.tornado) {
+	audio_play_sound(snd_tornado5, 2, true);
+}
 global.tornado = true;
 
 var layerid = layer_get_id("GameObjects");

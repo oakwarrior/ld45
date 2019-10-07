@@ -20,6 +20,8 @@ or  place_meeting(x,y+4,global.playerId) and global.startedPlaying = true
 {
 show_debug_message("kolizja z playerem")	
 var i;
+audio_play_sound(snd_victory, 1, false);
+
 for (i = 0; i < instance_count; i += 1;)
    {
    with (instance_id[i]) 
