@@ -59,3 +59,4 @@ yscale = image_yscale;
 // Legacy code, haha
 sticking = false
 
+isTransformed = false;

@@ -169,3 +169,8 @@ instance_destroy()
 
 
 }
+
+if(!isTransformed && global.memes) {
+	isTransformed = true;
+	sprite_index = pika_0;
+}

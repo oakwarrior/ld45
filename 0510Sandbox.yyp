@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "1d05b411-8e0e-4e16-956e-1559257d96ba",
+            "Value": {
+                "id": "70a58f4e-0cae-4051-af68-9f8299062b14",
+                "resourcePath": "sounds\\snd_memes\\snd_memes.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "1e948702-5ef3-4298-a907-3a4aa21b8fc6",
             "Value": {
                 "id": "46271d36-7d1d-455d-85f7-61a4bb1b405a",
